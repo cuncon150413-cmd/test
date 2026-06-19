@@ -136,11 +136,13 @@ https://hoiquan.dpdns.org/VTVGo/?sctv13
 #EXTINF:-1 tvg-id="sctv14" tvg-name="SCTV14" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/SCTV14.png/revision/latest?cb=20210820042328&path-prefix=vi" group-title="SCTV",SCTV14
 https://hoiquan.dpdns.org/VTVGo/?sctv14
 #EXTINF:-1 tvg-id="sctv15" tvg-name="SCTV15" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/SCTV15.png/revision/latest?cb=20210820043237&path-prefix=vi" group-title="SCTV",SCTV15
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/%C3%A8.mp4
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/sctv15hd/Free.m3u8
 #EXTINF:-1 tvg-id="sctv16" tvg-name="SCTV16" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/aa/SCTV16.png/revision/latest?cb=20210820043927&path-prefix=vi" group-title="SCTV",SCTV16
 https://hoiquan.dpdns.org/VTVGo/?sctv16
 #EXTINF:-1 tvg-id="sctv17" tvg-name="SCTV17" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/SCTV17.png/revision/latest/scale-to-width-down/1200?cb=20201011040740" group-title="SCTV",SCTV17
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/%C3%A8.mp4
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/sctv17hd/Free.m3u8
 #EXTINF:-1 tvg-id="sctv18" tvg-name="SCTV18" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/SCTV18_logo_2020.png/revision/latest/scale-to-width-down/985?cb=20220223142129&path-prefix=vi" group-title="SCTV",SCTV18
 https://hoiquan.dpdns.org/VTVGo/?sctv18
 #EXTINF:-1 tvg-id="sctv19" tvg-name="SCTV19" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV19.png/revision/latest/scale-to-width-down/1200?cb=20240131141543&path-prefix=vi" group-title="SCTV",SCTV19
@@ -150,7 +152,8 @@ https://hoiquan.dpdns.org/VTVGo/?sctv20
 #EXTINF:-1 tvg-id="sctv21" tvg-name="SCTV21" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/SCTV21.png/revision/latest/scale-to-width-down/1200?cb=20210821043405&path-prefix=vi" group-title="SCTV",SCTV21
 https://hoiquan.dpdns.org/VTVGo/?sctv21
 #EXTINF:-1 tvg-id="sctv22" tvg-name="SCTV22" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/47/SCTV22.png/revision/latest?cb=20210821043823&path-prefix=vi" group-title="SCTV",SCTV22
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/%C3%A8.mp4
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/sctv22hd/Free.m3u8
 #EXTINF:-1 tvg-id="sctvphim" tvg-name="SCTV PHIM" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/41/SCTV_Phim_T%E1%BB%95ng_h%E1%BB%A3p_logo_19-01-2023.png/revision/latest?cb=20230323081029&path-prefix=vi" group-title="SCTV",SCTV PHIM
 https://hoiquan.dpdns.org/VTVGo/?sctvphim
 #EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/HTV1_30-12-2024.png/revision/latest/scale-to-width-down/1000?cb=20260414043039&path-prefix=vi" group-title="HTV",HTV1
@@ -250,7 +253,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=55
 #EXTINF:-1 tvg-id="hanoitv1hanoi" tvg-name="HanoiTV1 Hà Nội" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/HanoiTV1_HD_2016-2026.png/revision/latest?cb=20241227073715&path-prefix=vi" group-title="Địa Phương",HanoiTV1 Hà Nội
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hanoitv2hanoi" tvg-name="HanoiTV2 Hà Nội" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/83/H2_HD_logo_2016.png/revision/latest/scale-to-width-down/200?cb=20250128094827&path-prefix=vi" group-title="Địa Phương",HanoiTV2 Hà Nội
-https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=34
 #EXTINF:-1 tvg-id="bhttvhatinh" tvg-name="BHTTV Hà Tĩnh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/BHTTV_logo.svg/revision/latest/scale-to-width-down/300?cb=20260307142310" group-title="Địa Phương",BHTTV Hà Tĩnh
 https://freem3u.xyz/api/live/play.m3u8?vid=58
 #EXTINF:-1 tvg-id="thphaiphong" tvg-name="THP Hải Phòng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/THP_logo.svg/500px-THP_logo.svg.png" group-title="Địa Phương",THP Hải Phòng
