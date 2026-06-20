@@ -300,7 +300,7 @@ https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u
 #EXTINF:-1 tvg-id="tntayninh" tvg-name="TN Tây Ninh" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6c/TN_Tay_Ninh_logo.png/revision/latest/scale-to-width-down/200?cb=20251224165755&path-prefix=vi" group-title="Địa Phương",TN Tây Ninh
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=72
 #EXTINF:-1 tvg-id="ttv2tayninh" tvg-name="TTV2 Tây Ninh" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9a/TTV2_Tay_Ninh.png/revision/latest/scale-to-width-down/1200?cb=20250704141723&path-prefix=vi" group-title="Địa Phương",TTV2 Tây Ninh
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/k+tayninh.mp4
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/testcard.mp4
 #EXTINF:-1 tvg-id="tnthainguyen" tvg-name="TN Thái Nguyên" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/TN_logo_2025.png/revision/latest?cb=20250707111207&path-prefix=vi" group-title="Địa Phương",TN Thái Nguyên
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=88
 #EXTINF:-1 tvg-id="thtgtiengiang" tvg-name="THTG Tiền Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/65/THTG_logo_2023.png/revision/latest?cb=20230827101416&path-prefix=vi" group-title="Địa Phương",THTG Tiền Giang
