@@ -188,17 +188,17 @@ https://dethich.pw/htvccanhac/index.m3u8
 https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcdulichcuocsong" tvg-name="HTVC Du Lịch & Cuộc Sống" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/83/HTVC_DLCS_2016-2020.png/revision/latest?cb=20220609030426&path-prefix=vi" group-title="HTV",HTVC Du Lịch & Cuộc Sống
 https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="vinhlong1" tvg-name="THVL1" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest/scale-to-width-down/1436?cb=20220410232326&path-prefix=vi" group-title="THVL",THVL1
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest/scale-to-width-down/1436?cb=20220410232326&path-prefix=vi" group-title="THVL",THVL1
 https://dethich.pw/thvl1/index.m3u8
-#EXTINF:-1 tvg-id="vinhlong2" tvg-name="THVL2" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c6/THVL2_logo_2025.png/revision/latest/scale-to-width-down/1000?cb=20260307091501&path-prefix=vi" group-title="THVL",THVL2
+#EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c6/THVL2_logo_2025.png/revision/latest/scale-to-width-down/1000?cb=20260307091501&path-prefix=vi" group-title="THVL",THVL2
 https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="vinhlong3" tvg-name="THVL3" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/THVL3.png/revision/latest?cb=20220411074507&path-prefix=vi" group-title="THVL",THVL3
+#EXTINF:-1 tvg-id="vinhlong3hd" tvg-name="THVL3" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/THVL3.png/revision/latest?cb=20220411074507&path-prefix=vi" group-title="THVL",THVL3
 https://live-a.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vinhlong4" tvg-name="THVL4" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/THVL4_logo_2020-nay.png/revision/latest?cb=20220411075529&path-prefix=vi" group-title="THVL",THVL4
+#EXTINF:-1 tvg-id="vinhlong4hd" tvg-name="THVL4" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/THVL4_logo_2020-nay.png/revision/latest?cb=20220411075529&path-prefix=vi" group-title="THVL",THVL4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vinhlong5" tvg-name="THVL5" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b2/THVL5_logo_2026_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20260224023722&path-prefix=vi" group-title="THVL",THVL5
+#EXTINF:-1 tvg-id="vinhlong5hd" tvg-name="THVL5" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b2/THVL5_logo_2026_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20260224023722&path-prefix=vi" group-title="THVL",THVL5
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=91
-#EXTINF:-1 tvg-id="vinhlong3" tvg-name="THBT" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fb/THBT_HD_logo_ch%C3%ADnh_2022.png/revision/latest/scale-to-width-down/1000?cb=20230314165913&path-prefix=vi" group-title="THVL",THBT
+#EXTINF:-1 tvg-id="vinhlong3hd" tvg-name="THBT" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fb/THBT_HD_logo_ch%C3%ADnh_2022.png/revision/latest/scale-to-width-down/1000?cb=20230314165913&path-prefix=vi" group-title="THVL",THBT
 https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/%C3%A8.mp4
 #EXTINF:-1 tvg-id="angiang1" tvg-name="ATV1 An Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/ATV1_logo_16.11-16.12.2025.png/revision/latest/scale-to-width-down/1000?cb=20251119124616&path-prefix=vi" group-title="Địa Phương",ATV1 An Giang
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
