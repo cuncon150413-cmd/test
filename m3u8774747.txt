@@ -21,6 +21,11 @@ qhd=960x540 540p qhd
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=6
 #EXTM3U url-tvg="https://raw.githubusercontent.com/priterytivi/onnamx/refs/heads/main/epg.xml" tvg-shift=0 m3uautoload=9
 #EXTM3U url-tvg="https://manhkendo.000webhostapp.com/epgvn/lichtv/homnay.xml" tvg-shift=0 m3uautoload=8
+#EXTM3U url-tvg="https://hnlive.dramahay.xyz/epg.xml" tvg-shift=0 m3uautoload=10
+#EXTM3U url-tvg="https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml" tvg-shift=0 m3uautoload=11
+#EXTM3U url-tvg="http://iptvx.one/EPG" tvg-shift=0 m3uautoload=12
+#EXTM3U url-tvg="https://onnamx.io.vn/epg.xml" tvg-shift=0 m3uautoload=10
+#EXTM3U url-tvg="phattai_phattai2003@yahoo.com" tvg-shift=0 m3uautoload=1
 --
 
 --link--
@@ -585,6 +590,7 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 CNN 720p
 https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/71138155-f4d9-4121-bc64-8a429e79bd7e/1.m3u8
 CNN hd
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8 
 https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/71138155-f4d9-4121-bc64-8a429e79bd7e/0.m3u8
 BBC news 720x576
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
@@ -610,6 +616,8 @@ FashionTV 720x576
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 Bloomberg
 https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg-avc1_3000000=11-mp4a_256000_eng=10.m3u8
+PBS KIDS 480p
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 
 truyenhinh.vnptvas.vn
 dtv dien bien sd720x406
@@ -1319,6 +1327,34 @@ on football 720p
 https://1011154949.vnns.net/CDN-FPT02/BONGDATV-HD-1080p/playlist.m3u8
 on sport 720p
 https://1011154949.vnns.net/CDN-FPT02/THETHAOTV-HD-1080p/playlist.m3u8
+
+vtcplay.vn
+vtv1 hd
+https://luuchieu.truyenhinhso.vn/media/live/C90B082632CD4A75F4B3EDB3/index.m3u8
+vtv7 hd
+https://luuchieu.truyenhinhso.vn/media/live/B143BF88CC03AC5CD5D64E04/index.m3u8
+thp hai phong 720p
+https://luuchieu.truyenhinhso.vn/media/live/92B1DFD1EC042E0358662585/index.m3u8
+crtv cao bang 720p
+https://luuchieu.truyenhinhso.vn/media/live/FEC4E26FBD78CE924E91BC03/index.m3u8
+tn1 thai nguyen 720p
+https://luuchieu.truyenhinhso.vn/media/live/C16B4E5A5DB48B8319DCFA3F/index.m3u8
+ntv nghe an 720p
+https://luuchieu.truyenhinhso.vn/media/live/614F627C78A7CD6E8EF64913/index.m3u8
+ptv phu tho 720p
+https://luuchieu.truyenhinhso.vn/media/live/CE1E70274C63655E3F35FE4E/index.m3u8
+ltv lai chau 720p
+https://luuchieu.truyenhinhso.vn/media/live/AF157BFA0E9FE004C61AD76E/index.m3u8
+ttv tuyen quang 720p
+https://luuchieu.truyenhinhso.vn/media/live/3F95C34B9C32223E48CFA12D/index.m3u8
+stv son la 720p
+https://luuchieu.truyenhinhso.vn/media/live/A8341460A6E325278B3B528C/index.m3u8
+dtv dien bien 720p
+https://luuchieu.truyenhinhso.vn/media/live/E12415C4CD89789834C7C475/index.m3u8
+antv hd
+https://luuchieu.truyenhinhso.vn/media/live/74CE8EB8C9F813053E704DE6/index.m3u8
+qpvn hd
+https://luuchieu.truyenhinhso.vn/media/live/9F7A34862D75E49111D3A5BE/index.m3u8
 
 sgclient.duckdns
 vtv1 hd
