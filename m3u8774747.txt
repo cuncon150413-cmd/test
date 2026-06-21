@@ -24,8 +24,8 @@ qhd=960x540 540p qhd
 #EXTM3U url-tvg="https://hnlive.dramahay.xyz/epg.xml" tvg-shift=0 m3uautoload=10
 #EXTM3U url-tvg="https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml" tvg-shift=0 m3uautoload=11
 #EXTM3U url-tvg="http://iptvx.one/EPG" tvg-shift=0 m3uautoload=12
-#EXTM3U url-tvg="https://onnamx.io.vn/epg.xml" tvg-shift=0 m3uautoload=10
-#EXTM3U url-tvg="phattai_phattai2003@yahoo.com" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://onnamx.io.vn/epg.xml" tvg-shift=0 m3uautoload=13
+#EXTM3U url-tvg="phattai_phattai2003@yahoo.com" tvg-shift=0 m3uautoload=14
 --
 
 --link--
