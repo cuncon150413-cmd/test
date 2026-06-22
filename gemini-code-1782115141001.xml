@@ -6,10 +6,10 @@
     <display-name>Kênh Không EPG</display-name>
   </channel>
   <channel id="tayninh2">
-    <display-name>Tây Ninh 2</display-name>
+    <display-name>TTV2 Tây Ninh</display-name>
   </channel>
   <channel id="binhduong2">
-    <display-name>Bình Dương 2</display-name>
+    <display-name>BTV2 Bình Dương</display-name>
   </channel>
   <channel id="tv360promo">
     <display-name>TV360 Promo</display-name>
