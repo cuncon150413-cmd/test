@@ -1081,6 +1081,8 @@ https://vtvgolive-ott3.vtvdigital.vn/live/hatinhtv/chunklist_0.m3u8
 hoiquan.dpdns.org
 sctv1 hd
 https://hoiquan.dpdns.org/VTVGo/?sctv1
+sctv2 720p
+https://hoiquan.dpdns.org/VTVGo/?sctv2
 sctv3 720p
 https://hoiquan.dpdns.org/VTVGo/?sctv3
 sctv4 720p
