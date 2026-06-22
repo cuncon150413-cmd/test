@@ -37,6 +37,8 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=32
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=31
 #EXTINF:-1 tvg-id="fptplay" tvg-name="fpt play channel" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="Thiết Yếu",Fpt Play Channel
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="tv360promo" tvg-name="tv360 promo" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/69/TV360_Promo.png/revision/latest?cb=20260404085321&path-prefix=vi" group-title="Thiết Yếu",TV360 PROMO
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9904
 #EXTINF:-1 tvg-id="tvbvietnam" tvg-name="tvb viet nam" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5f/784px-Tvb_logo.svg.png" group-title="Thiết Yếu",TVB Việt Nam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="ONNA MX1" tvg-name="oni1" tvg-logo="https://raw.githubusercontent.com/priterytivi/onnamx/refs/heads/main/image/onnamx1.png" group-title="Thiết Yếu",ONNA MX 1 HD
@@ -97,7 +99,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=201
 https://hoiquan.dpdns.org/VTVGo/?sctv3
 #EXTINF:-1 tvg-id="sctv4" tvg-name="SCTV4" tvg-logo="https://i.imgur.com/qkZhzQq.png" group-title="SCTV",SCTV4
 https://hoiquan.dpdns.org/VTVGo/?sctv4
-#EXTINF:-1 tvg-id="sctv5hd" tvg-name="SCTV5" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9e/SCTV5_2017.png/revision/latest?cb=20220223141555&path-prefix=vi" group-title="SCTV",SCTV5
+#EXTINF:-1 tvg-id="sctv5" tvg-name="SCTV5" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9e/SCTV5_2017.png/revision/latest?cb=20220223141555&path-prefix=vi" group-title="SCTV",SCTV5
 https://hoiquan.dpdns.org/VTVGo/?sctv5
 #EXTINF:-1 tvg-id="sctv6" tvg-name="SCTV6" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/SCTV6_logo_2021.png/revision/latest?cb=20240114042802&path-prefix=vi" group-title="SCTV",SCTV6
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=232
@@ -107,7 +109,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv7
 https://hoiquan.dpdns.org/VTVGo/?sctv8
 #EXTINF:-1 tvg-id="sctv9" tvg-name="SCTV9" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/93/SCTV9_logo_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20230630084521&path-prefix=vi" group-title="SCTV",SCTV9
 https://hoiquan.dpdns.org/VTVGo/?sctv9
-#EXTINF:-1 tvg-id="sctv10hd" tvg-name="SCTV10" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fb/SCTV10_logo.png/revision/latest/scale-to-width-down/1570?cb=20220223142144&path-prefix=vi" group-title="SCTV",SCTV10
+#EXTINF:-1 tvg-id="sctv10" tvg-name="SCTV10" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fb/SCTV10_logo.png/revision/latest/scale-to-width-down/1570?cb=20220223142144&path-prefix=vi" group-title="SCTV",SCTV10
 https://hoiquan.dpdns.org/VTVGo/?sctv10
 #EXTINF:-1 tvg-id="sctv11" tvg-name="SCTV11" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/SCTV11_logo_2022.png/revision/latest?cb=20220428035154&path-prefix=vi" group-title="SCTV",SCTV11
 https://hoiquan.dpdns.org/VTVGo/?sctv11
