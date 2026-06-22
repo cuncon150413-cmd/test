@@ -3,7 +3,7 @@
   
   <!-- ĐỊNH NGHĨA CÁC KÊNH (MAP ID) -->
   <channel id="none">
-    <display-name>Kênh Không EPG</display-name>
+    <display-name>None</display-name>
   </channel>
   <channel id="tayninh2">
     <display-name>TTV2 Tây Ninh</display-name>
@@ -12,7 +12,7 @@
     <display-name>BTV2 Bình Dương</display-name>
   </channel>
   <channel id="tv360promo">
-    <display-name>TV360 Promo</display-name>
+    <display-name>TV360 PROMO</display-name>
   </channel>
   <channel id="fptplay">
     <display-name>FPT Play</display-name>
