@@ -717,31 +717,45 @@ https://live.mediatech.vn/live/2853bb18b89d074498c81d7a0deb32a3755/playlist.m3u8
 
 118.107.85.4:1935
 dnnrtv1 dong nai sd
-http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_b1384000.m3u8
-http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
+https://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_b1384000.m3u8
+https://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
 dnnrtv2 dong nai sd
-http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_b1384000.m3u8
-http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
+https://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_b1384000.m3u8
+https://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 ltv1 lam dong sd
-http://118.107.85.4:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
-http://118.107.85.4:1935/live/smil:LTV.smil/chunklist.m3u8
+https://118.107.85.4:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
+https://118.107.85.4:1935/live/smil:LTV.smil/chunklist.m3u8
 crtv cao bang sd
-http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
-http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist.m3u8
+https://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
+https://118.107.85.4:1935/live/smil:CRTV.smil/chunklist.m3u8
 
 118.107.85.5:1935
 dnnrtv1 dong nai sd
-http://118.107.85.5:1935/live/smil:DNTV1.smil/chunklist_b1384000.m3u8
-http://118.107.85.5:1935/live/smil:DNTV1.smil/chunklist.m3u8
+https://118.107.85.5:1935/live/smil:DNTV1.smil/chunklist_b1384000.m3u8
+https://118.107.85.5:1935/live/smil:DNTV1.smil/chunklist.m3u8
 dnnrtv2 dong nai sd
-http://118.107.85.5:1935/live/smil:DNTV2.smil/chunklist_b1384000.m3u8
-http://118.107.85.5:1935/live/smil:DNTV2.smil/chunklist.m3u8
+https://118.107.85.5:1935/live/smil:DNTV2.smil/chunklist_b1384000.m3u8
+https://118.107.85.5:1935/live/smil:DNTV2.smil/chunklist.m3u8
 ltv1 lam dong sd
-http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
-http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
+https://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
+https://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
 crtv cao bang sd
-http://118.107.85.5:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
-http://118.107.85.5:1935/live/smil:CRTV.smil/chunklist.m3u8
+https://118.107.85.5:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
+https://118.107.85.5:1935/live/smil:CRTV.smil/chunklist.m3u8
+
+stream.thingnet.vn
+dnnrtv1 dong nai sd
+https://stream.thingnet.vn/live/smil:DNTV1.smil/chunklist_b1384000.m3u8
+https://stream.thingnet.vn/live/smil:DNTV1.smil/chunklist.m3u8
+dnnrtv2 dong nai sd
+https://stream.thingnet.vn/live/smil:DNTV2.smil/chunklist_b1384000.m3u8
+https://stream.thingnet.vn/live/smil:DNTV2.smil/chunklist.m3u8
+ltv1 lam dong sd
+https://stream.thingnet.vn/live/smil:LTV.smil/chunklist_b1384000.m3u8
+https://stream.thingnet.vn/live/smil:LTV.smil/chunklist.m3u8
+crtv cao bang sd
+https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist_b1384000.m3u8
+https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
 
 nethubtv.vn
 dnnrtv1 720p
