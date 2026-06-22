@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Custom EPG by Gemini">
+  
+  <!-- ĐỊNH NGHĨA CÁC KÊNH (MAP ID) -->
+  <channel id="none">
+    <display-name>Kênh Không EPG</display-name>
+  </channel>
+  <channel id="tayninh2">
+    <display-name>Tây Ninh 2</display-name>
+  </channel>
+  <channel id="binhduong2">
+    <display-name>Bình Dương 2</display-name>
+  </channel>
+  <channel id="tv360promo">
+    <display-name>TV360 Promo</display-name>
+  </channel>
+  <channel id="fptplay">
+    <display-name>FPT Play</display-name>
+  </channel>
+
+  <!-- LỊCH PHÁT SÓNG (2026 - 2036) -->
+  <programme start="20260622000000 +0700" stop="20360101000000 +0700" channel="none">
+    <title lang="vi">Không có chương trình</title>
+    <desc lang="vi">Lịch phát sóng của kênh này hiện chưa được cập nhật.</desc>
+  </programme>
+
+  <programme start="20260622000000 +0700" stop="20360101000000 +0700" channel="tayninh2">
+    <title lang="vi">Không có chương trình</title>
+    <desc lang="vi">Lịch phát sóng của kênh này hiện chưa được cập nhật.</desc>
+  </programme>
+
+  <programme start="20260622000000 +0700" stop="20360101000000 +0700" channel="binhduong2">
+    <title lang="vi">Không có chương trình</title>
+    <desc lang="vi">Lịch phát sóng của kênh này hiện chưa được cập nhật.</desc>
+  </programme>
+
+  <programme start="20260622000000 +0700" stop="20360101000000 +0700" channel="tv360promo">
+    <title lang="vi">Chương Trình Quảng Cáo</title>
+    <desc lang="vi">Nội dung giới thiệu và quảng cáo dịch vụ.</desc>
+  </programme>
+
+  <programme start="20260622000000 +0700" stop="20360101000000 +0700" channel="fptplay">
+    <title lang="vi">Chương Trình Phim Truyện</title>
+    <desc lang="vi">Danh sách các bộ phim truyện đặc sắc đang phát sóng.</desc>
+  </programme>
+
+</tv>
