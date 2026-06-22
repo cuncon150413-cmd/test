@@ -1,0 +1,27 @@
+<tv>
+	<channel id="none"><display-name></display-name></channel>
+	<channel id="tayninh2"><display-name></display-name></channel>
+	<channel id="binhduong2"><display-name></display-name></channel>
+	<channel id="tv360promo"><display-name></display-name></channel>
+	<channel id="fptplay"><display-name></display-name></channel>
+	<programme start="20260000000000 +0700" stop="20360000000000 +0700" channel="none"><title>Không có chương trình</title></programme>
+	<programme start="20260000000000 +0700" stop="20360000000000 +0700" channel="tayninh2"><title>Không có chương trình</title></programme>
+	<programme start="20260000000000 +0700" stop="20360000000000 +0700" channel="binhduong2"><title>Không có chương trình</title></programme>
+	<programme start="20260000000000 +0700" stop="20360000000000 +0700" channel="tv360promo"><title>Chương Trình Quảng Cáo</title></programme>
+	<programme start="20260000000000 +0700" stop="20360000000000 +0700" channel="fptplay"><title>Chương Trình Phim Truyện</title></programme>
+<programme start="202600000000 +0700" stop="20360000000000 +0700" channel="none">
+<title>Không có chương trình</title>
+</programme>
+<programme start="202600000000 +0700" stop="20360000000000 +0700" channel="tayninh2">
+<title>Không có chương trình</title>
+</programme>
+<programme start="202600000000 +0700" stop="20360000000000 +0700" channel="binhduong2">
+<title>Không có chương trình</title>
+</programme>
+<programme start="202600000000 +0700" stop="20360000000000 +0700" channel="tv360promo">
+<title>Chương Trình Quảng Cáo</title>
+</programme>
+<programme start="202600000000 +0700" stop="20360000000000 +0700" channel="fptplay">
+<title>Chương Trình Phim Truyện</title>
+</programme>
+</tv>
