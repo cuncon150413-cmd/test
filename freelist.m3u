@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1,vtv1 sd
+https://wowza.danet.vn/live/vtv1/playlist.m3u8
+#EXTINF:-1,vtv2
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,vtv3 hd
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,vtv4
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,vtv5
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,vtv5 tay nguyen
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,vtv5 tay nam bo
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,vtv6
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,vtv7
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,vtv8
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,vtv9
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,vtv10
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,vietnam today
+https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_6669540177728122612.m3u8
+#EXTINF:-1,antv sd
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1,qpvn
+https://wowza.danet.vn/live/quocphong/playlist.m3u8
+#EXTINF:-1,htv1
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,htv2
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,htv3
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,htv4
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,htv7
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,htv9
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,thvl1
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,thvl2
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,thvl3
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,thvl4
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,thvl5
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,hn1
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,hn2
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,qngtv1 quangngai
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,qngtv2 quangngai
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,atv1 angiang
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,atv2 angiang
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,atv3 angiang
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,ctv camau
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,btv bacninh
+https://liveh34.vtvprime.vn/hls/BACGIANGTV/01.m3u8
+#EXTINF:-1,brt ba ria vung tau
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,btv1 binh duong
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,gtv gia lai
+https://ott3.nethubtv.vn/live/binhdinhtv/chunklist_0.m3u8
+#EXTINF:-1,drt dak lak
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,dtv dien bien
+https://ott4.nethubtv.vn/live/dbientv/chunklist_0.m3u8
+#EXTINF:-1,crtv cao bang
+https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist_b584000.m3u8
+#EXTINF:-1,ptd dak nong
+https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_w657747510_b964000_sleng.m3u8
+#EXTINF:-1,ltv1 lam dong
+http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b584000.m3u8
+#EXTINF:-1,ltv2 lam dong
+https://liveh34.vtvprime.vn/hls/LAMDONG/01.m3u8
+#EXTINF:-1,ltv3 lam dong
+https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_b964000_sleng.m3u8
+#EXTINF:-1,dnrt1 da nang
+https://liveh12.vtvprime.vn/hls/DANANGTV/01.m3u8
+#EXTINF:-1,dnrt2 da nang
+https://liveh34.vtvprime.vn/hls/DANANG2/01.m3u8
+#EXTINF:-1,dnnrtv1 dong nai
+https://stream.thingnet.vn/live/smil:DNTV1.smil/chunklist_b584000.m3u8
+#EXTINF:-1,dnnrtv2 dong nai
+https://stream.thingnet.vn/live/smil:DNTV2.smil/chunklist_b584000.m3u8
+#EXTINF:-1,dnnrtv3 dông nai
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,dtv dien bien
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
+#EXTINF:-1,bhttv ha tinh
+https://liveh34.vtvprime.vn/hls/HATINH/01.m3u8
+#EXTINF:-1,hytv hung yen
+https://liveh12.vtvprime.vn/hls/HUNGYENTV/01.m3u8
+#EXTINF:-1,thp hai phong
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,thp3 hai phong
+https://liveh34.vtvprime.vn/hls/HAIPHONG3/01.m3u8
+#EXTINF:-1,thdt1 dong thap
+https://liveh34.vtvprime.vn/hls/DONGTHAPTV/01.m3u8
+#EXTINF:-1,mien tay thdt2 dong thap
+https://liveh34.vtvprime.vn/hls/DONGTHAP2/01.m3u8
+#EXTINF:-1,stv sonla
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,ktv khanh hoa
+https://liveh12.vtvprime.vn/hls/KHANHHOATV/01.m3u8
+#EXTINF:-1,ktv1 khanh hoa
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,huetv hue
+https://vtvgolive-ott4.vtvdigital.vn/live/huetv/chunklist_0.m3u8
+#EXTINF:-1,ltv lai chau
+http://123.31.36.68/live.m3u8?c=vstv361&q=high&type=tv&location=NA&pkg=pkg11.hni
+#EXTINF:-1,lstv lang son
+https://liveh34.vtvprime.vn/hls/LANGSON/01.m3u8
+#EXTINF:-1,tn tay ninh
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,thlc lao cai
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,ntv nghe an
+https://liveh12.vtvprime.vn/hls/NGHEANTV/01.m3u8
+#EXTINF:-1,nbtv ninh bình
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,ptv phu tho
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,qttv quang tri
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,qngtv1 quang ngai
+https://vtvgolive-ott3.vtvdigital.vn/live/quangngaitv/chunklist_0.m3u8
+#EXTINF:-1,qngtv2 quang ngai
+https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_0.m3u8
+#EXTINF:-1,qtv1 quang ninh
+https://liveh12.vtvprime.vn/hls/QUANGNINHTV/01.m3u8
+#EXTINF:-1,qtv3 quang ninh
+https://liveh34.vtvprime.vn/hls/QUANGNINH3/01.m3u8
+#EXTINF:-1,tn1 thai nguyen
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,ttv thanh hoa
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,can tho 1
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho1-360p.m3u8
+#EXTINF:-1,can tho 2
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho2-360p.m3u8
+#EXTINF:-1,can tho 3
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho3-360p.m3u8
+#EXTINF:-1,ttv tuyen quang
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
