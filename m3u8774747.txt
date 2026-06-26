@@ -1723,6 +1723,8 @@ htv7 hd
 https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
 htv9 hd
 https://1011154949.vnns.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
+htvc ca nhac hd
+https://1011154949.vnns.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
 htvc du lich cuoc song hd
 https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
 htvc gia dinh hd
@@ -1739,6 +1741,8 @@ thvl1 hd
 https://1011154949.vnns.net/CDN-FPT02/THVL1-HD-1080p/playlist.m3u8
 thvl2 hd
 https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
+tn tay ninh 720p
+https://1011154949.vnns.net/CDN-FPT02/LONGAN-SD-720p/playlist.m3u8
 ctv ca mau hd
 https://1011154949.vnns.net/CDN-FPT02/CAMAU-HD-1080p/playlist.m3u8
 on football 720p
@@ -1769,9 +1773,9 @@ stv son la 720p
 https://luuchieu.truyenhinhso.vn/media/live/A8341460A6E325278B3B528C/index.m3u8
 dtv dien bien 720p
 https://luuchieu.truyenhinhso.vn/media/live/E12415C4CD89789834C7C475/index.m3u8
-antv hd
+antv 720p
 https://luuchieu.truyenhinhso.vn/media/live/74CE8EB8C9F813053E704DE6/index.m3u8
-qpvn hd
+qpvn 720p
 https://luuchieu.truyenhinhso.vn/media/live/9F7A34862D75E49111D3A5BE/index.m3u8
 
 sgclient.duckdns
