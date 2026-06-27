@@ -8,9 +8,9 @@ https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=1
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="vtv2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/VTV2_logo_2013_final.svg" group-title="VTV",VTV2
 https://live.fptplay53.net/fnxhd1/vtv2hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="vtv3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png" group-title="VTV",VTV3
-https://live.fptplay53.net/fnxhd1/vtv2hd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="vtv4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1280px-VTV4_logo_2013_final.svg.png" group-title="VTV",VTV4
-https://live.fptplay53.net/fnxhd1/vtv2hd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxhd1/vtv4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="vtv5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/VTV5_logo_2013_final.svg" group-title="VTV",VTV5
 https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="vtv5 tây nam bộ" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e2/VTV5_T%C3%A2y_Nam_B%E1%BB%99_logo_22.11.2019.png/revision/latest/scale-to-width-down/1460?cb=20250125062527&path-prefix=vi" group-title="VTV",VTV5 Tây Nam Bộ
@@ -20,7 +20,7 @@ https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="vtv6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/VTV6_logo_2026_final.svg" group-title="VTV",VTV6
 https://live.fptplay53.net/fnxhd1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="vtv7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/VTV7_logo_2016_final.svg" group-title="VTV",VTV7
-https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=6
 #EXTINF:-1 tvg-id="vtv8hd" tvg-name="vtv8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png" group-title="VTV",VTV8
 https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="vtv9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1280px-VTV9_logo_2013_final.svg.png" group-title="VTV",VTV9
