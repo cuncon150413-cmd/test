@@ -601,7 +601,7 @@ BBC news 720x576
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 Discovery Channel
 https://cdn4.skygo.mn/live/disk1/SoutheastAsia/HLSv3-FTA/SoutheastAsia.m3u8
-ALJAZEERA 720z576
+ALJAZEERA 720x576
 https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
 amimal planet 720
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/live/158-3M/chunks.m3u8?nimblesessionid=629532681
@@ -629,6 +629,10 @@ dtv dien bien sd720x406
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
 ltv lai chau sd720x406
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni
+thd hai duong720x406
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&pkg=pkg11.hni
+tbk bac kan720x406
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&pkg=pkg11.hni
 ttv thanh hoa 720p
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 
@@ -637,6 +641,10 @@ dtv dien bien sd720x406
 https://123.31.36.68/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
 ltv lai chau sd720x406
 http://123.31.36.68/live.m3u8?c=vstv361&q=high&type=tv&location=NA&pkg=pkg11.hni
+thd hai duong720x406
+http://123.31.36.68/live.m3u8?c=vstv369&q=high&pkg=pkg11.hni
+tbk bac kan720x406
+http://123.31.36.68/live.m3u8?c=vstv360&q=high&pkg=pkg11.hni
 ttv thanh hoa 720p
 https://123.31.36.68/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 
@@ -1155,13 +1163,24 @@ crtv cao bang 360p
 https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist_b584000.m3u8
 
 nethubtv.vn
+btv bac ninh 720p
+https://ott3.nethubtv.vn/live/bacgiangtv/playlist.m3u8
+https://ott3.nethubtv.vn/live/bacgiangtv/chunklist_2.m3u8
+btv bac ninh 480p
+https://ott3.nethubtv.vn/live/bacgiangtv/chunklist_1.m3u8
+btv bac ninh 360p
+https://ott3.nethubtv.vn/live/bacgiangtv/chunklist_0.m3u8
 dnnrtv1 720p
 https://ott3.nethubtv.vn/live/dongnai1tv/playlist.m3u8
+https://ott4.nethubtv.vn/live/gialaitv/playlist.m3u8
 https://ott3.nethubtv.vn/live/dongnai1tv/chunklist_2.m3u8
+https://ott4.nethubtv.vn/live/gialaitv/chunklist_2.m3u8
 dnnrtv1 480p
 https://ott3.nethubtv.vn/live/dongnai1tv/chunklist_1.m3u8
+https://ott4.nethubtv.vn/live/gialaitv/chunklist_1.m3u8
 dnnrtv1 360p
 https://ott3.nethubtv.vn/live/dongnai1tv/chunklist_0.m3u8
+https://ott4.nethubtv.vn/live/gialaitv/chunklist_0.m3u8
 dnnrtv2 720p
 https://ott3.nethubtv.vn/live/dongnai2tv/playlist.m3u8
 https://ott3.nethubtv.vn/live/phuthotv/playlist.m3u8
@@ -1182,11 +1201,15 @@ huetv hue 360p
 https://ott4.nethubtv.vn/live/huetv/chunklist_0.m3u8
 dtv dien bien 720p
 https://ott4.nethubtv.vn/live/dbientv/playlist.m3u8
+https://ott4.nethubtv.vn/live/dienbientv/playlist.m3u8
 https://ott4.nethubtv.vn/live/dbientv/chunklist_2.m3u8
+https://ott4.nethubtv.vn/live/dienbientv/chunklist_2.m3u8
 dtv dien bien 480p
 https://ott4.nethubtv.vn/live/dbientv/chunklist_1.m3u8
+https://ott4.nethubtv.vn/live/dienbientv/chunklist_1.m3u8
 dtv dien bien 360p
 https://ott4.nethubtv.vn/live/dbientv/chunklist_0.m3u8
+https://ott4.nethubtv.vn/live/dienbientv/chunklist_0.m3u8
 qngtv1 quang ngai 720p
 https://ott3.nethubtv.vn/live/quangngaitv/playlist.m3u8
 https://ott3.nethubtv.vn/live/quangngaitv/chunklist_2.m3u8
@@ -1208,6 +1231,13 @@ gtv gia lai 480p
 https://ott3.nethubtv.vn/live/binhdinhtv/chunklist_1.m3u8
 gtv gia lai 360p
 https://ott3.nethubtv.vn/live/binhdinhtv/chunklist_0.m3u8
+hgtv ha giang 720p
+https://ott4.nethubtv.vn/live/hagiangtv/playlist.m3u8
+https://ott4.nethubtv.vn/live/hagiangtv/chunklist_2.m3u8
+hgtv ha giang 480p
+https://ott4.nethubtv.vn/live/hagiangtv/chunklist_1.m3u8
+hgtv ha giang 360p
+https://ott4.nethubtv.vn/live/hagiangtv/chunklist_0.m3u8
 bhttv ha tinh 720p
 https://ott3.nethubtv.vn/live/hatinhtv/playlist.m3u8
 https://ott3.nethubtv.vn/live/hatinhtv/chunklist_2.m3u8
@@ -1215,6 +1245,62 @@ bhttv ha tinh 480p
 https://ott3.nethubtv.vn/live/hatinhtv/chunklist_1.m3u8
 bhttv ha tinh 360p
 https://ott3.nethubtv.vn/live/hatinhtv/chunklist_0.m3u8
+ltv lai chau 720p
+https://ott4.nethubtv.vn/live/laichautv/playlist.m3u8
+https://ott4.nethubtv.vn/live/laichautv/chunklist_2.m3u8
+ltv lai chau 480p
+https://ott4.nethubtv.vn/live/laichautv/chunklist_1.m3u8
+ltv lai chau 360p
+https://ott4.nethubtv.vn/live/laichautv/chunklist_0.m3u8
+tn thai nguyen 720p
+https://ott3.nethubtv.vn/live/thainguyentv/playlist.m3u8
+https://ott3.nethubtv.vn/live/thainguyentv/chunklist_2.m3u8
+tn thai nguyen 480p
+https://ott3.nethubtv.vn/live/thainguyentv/chunklist_1.m3u8
+tn thai nguyen 360p
+https://ott3.nethubtv.vn/live/thainguyentv/chunklist_0.m3u8
+thp hai phong 720p
+https://ott3.nethubtv.vn/live/haiphongtv/playlist.m3u8
+https://ott3.nethubtv.vn/live/haiphongtv/chunklist_2.m3u8
+thp hai phong 480p
+https://ott3.nethubtv.vn/live/haiphongtv/chunklist_1.m3u8
+thp hai phong 360p
+https://ott3.nethubtv.vn/live/haiphongtv/chunklist_0.m3u8
+nbtv ninh binh 720p
+https://ott3.nethubtv.vn/live/ninhbinhtv/playlist.m3u8
+https://ott3.nethubtv.vn/live/ninhbinhtv/chunklist_2.m3u8
+nbtv ninh binh 480p
+https://ott3.nethubtv.vn/live/ninhbinhtv/chunklist_1.m3u8
+nbtv ninh binh 360p
+https://ott3.nethubtv.vn/live/ninhbinhtv/chunklist_0.m3u8
+thvl5 720p
+https://ott4.nethubtv.vn/live/travinhtv/playlist.m3u8
+https://ott4.nethubtv.vn/live/travinhtv/chunklist_2.m3u8
+thvl5 480p
+https://ott4.nethubtv.vn/live/travinhtv/chunklist_1.m3u8
+thvl5 360p
+https://ott4.nethubtv.vn/live/travinhtv/chunklist_0.m3u8
+ktv khanh hoa 720p
+https://ott4.nethubtv.vn/live/khanhhoatv/playlist.m3u8
+https://ott4.nethubtv.vn/live/khanhhoatv/chunklist_2.m3u8
+ktv khanh hoa 480p
+https://ott4.nethubtv.vn/live/khanhhoatv/chunklist_1.m3u8
+ktv khanh hoa 360p
+https://ott4.nethubtv.vn/live/khanhhoatv/chunklist_0.m3u8
+can tho 1 720p
+https://ott3.nethubtv.vn/live/haugiangtv/playlist.m3u8
+https://ott3.nethubtv.vn/live/haugiangtv/chunklist_2.m3u8
+can tho 1 480p
+https://ott3.nethubtv.vn/live/haugiangtv/chunklist_1.m3u8
+can tho 1 360p
+https://ott3.nethubtv.vn/live/haugiangtv/chunklist_0.m3u8
+crtv cao bang 720p
+https://ott4.nethubtv.vn/live/caobangtv/playlist.m3u8
+https://ott4.nethubtv.vn/live/caobangtv/chunklist_2.m3u8
+crtv cao bang 480p
+https://ott4.nethubtv.vn/live/caobangtv/chunklist_1.m3u8
+crtv cao bang 360p
+https://ott4.nethubtv.vn/live/caobangtv/chunklist_0.m3u8
 
 dethich.pw
 vtv1 hd
@@ -1379,11 +1465,15 @@ hanoitv2 360p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/hanoi2-360p.m3u8
 dnnrtv1 720p
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/playlist.m3u8
+https://vtvgolive-ott4.vtvdigital.vn/live/gialaitv/playlist.m3u8
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
+https://vtvgolive-ott4.vtvdigital.vn/live/gialaitv/chunklist_2.m3u8
 dnnrtv1 480p
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_1.m3u8
+https://vtvgolive-ott4.vtvdigital.vn/live/gialaitv/chunklist_1.m3u8
 dnnrtv1 360p
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_0.m3u8
+https://vtvgolive-ott4.vtvdigital.vn/live/gialaitv/chunklist_0.m3u8
 dnnrtv2 720p
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/playlist.m3u8
 https://vtvgolive-ott3.vtvdigital.vn/live/phuthotv/playlist.m3u8
@@ -1488,6 +1578,83 @@ bhttv ha tinh 480p
 https://vtvgolive-ott3.vtvdigital.vn/live/hatinhtv/chunklist_1.m3u8
 bhttv ha tinh 360p
 https://vtvgolive-ott3.vtvdigital.vn/live/hatinhtv/chunklist_0.m3u8
+hgtv ha giang 720p
+https://vtvgolive-ott4.vtvdigital.vn/live/hagiangtv/playlist.m3u8
+https://vtvgolive-ott4.vtvdigital.vn/live/hagiangtv/chunklist_2.m3u8
+hgtv ha giang 480p
+https://vtvgolive-ott4.vtvdigital.vn/live/hagiangtv/chunklist_1.m3u8
+hgtv ha giang 360p
+https://vtvgolive-ott3.vtvdigital.vn/live/hagiangtv/chunklist_0.m3u8
+ltv lai chau 720p
+https://vtvgolive-ott4.vtvdigital.vn/live/laichautv/playlist.m3u8
+https://vtvgolive-ott4.vtvdigital.vn/live/laichautv/chunklist_2.m3u8
+ltv lai chau 480p
+https://vtvgolive-ott4.vtvdigital.vn/live/laichautv/chunklist_1.m3u8
+ltv lai chau 360p
+https://vtvgolive-ott4.vtvdigital.vn/live/laichautv/chunklist_0.m3u8
+btv bac ninh 720p
+https://vtvgolive-ott3.vtvdigital.vn/live/bacgiangtv/playlist.m3u8
+https://vtvgolive-ott3.vtvdigital.vn/live/bacgiangtv/chunklist_2.m3u8
+btv bac ninh 480p
+https://vtvgolive-ott3.vtvdigital.vn/live/bacgiangtv/chunklist_1.m3u8
+btv bac ninh 360p
+https://vtvgolive-ott3.vtvdigital.vn/live/bacgiangtv/chunklist_0.m3u8
+ltv lai chau 720p
+https://vtvgolive-ott4.vtvdigital.vn/live/laichautv/playlist.m3u8
+https://vtvgolive-ott4.vtvdigital.vn/live/laichautv/chunklist_2.m3u8
+ltv lai chau 480p
+https://vtvgolive-ott4.vtvdigital.vn/live/laichautv/chunklist_1.m3u8
+ltv lai chau 360p
+https://vtvgolive-ott4.vtvdigital.vn/live/laichautv/chunklist_0.m3u8
+tn thai nguyen 720p
+https://vtvgolive-ott3.vtvdigital.vn/live/thainguyentv/playlist.m3u8
+https://vtvgolive-ott3.vtvdigital.vn/live/thainguyentv/chunklist_2.m3u8
+tn thai nguyen 480p
+https://vtvgolive-ott3.vtvdigital.vn/live/thainguyentv/chunklist_1.m3u8
+tn thai nguyen 360p
+https://vtvgolive-ott3.vtvdigital.vn/live/thainguyentv/chunklist_0.m3u8
+thp hai phong 720p
+https://vtvgolive-ott3.vtvdigital.vn/live/haiphongtv/playlist.m3u8
+https://vtvgolive-ott3.vtvdigital.vn/live/haiphongtv/chunklist_2.m3u8
+thp hai phong 480p
+https://vtvgolive-ott3.vtvdigital.vn/live/haiphongtv/chunklist_1.m3u8
+thp hai phong 360p
+https://vtvgolive-ott3.vtvdigital.vn/live/haiphongtv/chunklist_0.m3u8
+nbtv ninh binh 720p
+https://vtvgolive-ott3.vtvdigital.vn/live/ninhbinhtv/playlist.m3u8
+https://vtvgolive-ott3.vtvdigital.vn/live/ninhbinhtv/chunklist_2.m3u8
+nbtv ninh binh 480p
+https://vtvgolive-ott3.vtvdigital.vn/live/ninhbinhtv/chunklist_1.m3u8
+nbtv ninh binh 360p
+https://vtvgolive-ott3.vtvdigital.vn/live/ninhbinhtv/chunklist_0.m3u8
+thvl5 720p
+https://vtvgolive-ott4.vtvdigital.vn/live/travinhtv/playlist.m3u8
+https://vtvgolive-ott4.vtvdigital.vn/live/travinhtv/chunklist_2.m3u8
+thvl5 480p
+https://vtvgolive-ott4.vtvdigital.vn/live/travinhtv/chunklist_1.m3u8
+thvl5 360p
+https://vtvgolive-ott4.vtvdigital.vn/live/travinhtv/chunklist_0.m3u8
+ktv khanh hoa 720p
+https://vtvgolive-ott4.vtvdigital.vn/live/khanhhoatv/playlist.m3u8
+https://vtvgolive-ott4.vtvdigital.vn/live/khanhhoatv/chunklist_2.m3u8
+ktv khanh hoa 480p
+https://vtvgolive-ott4.vtvdigital.vn/live/khanhhoatv/chunklist_1.m3u8
+ktv khanh hoa 360p
+https://vtvgolive-ott4.vtvdigital.vn/live/khanhhoatv/chunklist_0.m3u8
+can tho 1 720p
+https://vtvgolive-ott3.vtvdigital.vn/live/haugiangtv/playlist.m3u8
+https://vtvgolive-ott3.vtvdigital.vn/live/haugiangtv/chunklist_2.m3u8
+can tho 1 480p
+https://vtvgolive-ott3.vtvdigital.vn/live/haugiangtv/chunklist_1.m3u8
+can tho 1 360p
+https://vtvgolive-ott3.vtvdigital.vn/live/haugiangtv/chunklist_0.m3u8
+crtv cao bang 720p
+https://vtvgolive-ott4.vtvdigital.vn/live/caobangtv/playlist.m3u8
+https://vtvgolive-ott4.vtvdigital.vn/live/caobangtv/chunklist_2.m3u8
+crtv cao bang 480p
+https://vtvgolive-ott4.vtvdigital.vn/live/caobangtv/chunklist_1.m3u8
+crtv cao bang 360p
+https://vtvgolive-ott4.vtvdigital.vn/live/caobangtv/chunklist_0.m3u8
 
 hoiquan.dpdns.org
 sctv1 hd
