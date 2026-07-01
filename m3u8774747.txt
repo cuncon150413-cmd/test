@@ -402,13 +402,19 @@ dtv radio
 https://live.mediatech.vn/live/28535437e79046746c1bf9787970a876038/playlist.m3u8
 https://live.mediatech.vn/live/28535437e79046746c1bf9787970a876038/chunklist.m3u8
 
+gialaitv.vn
+gtv hd
+https://tv.gialaitv.vn/tv.m3u8
+gtv radio
+https://tv.gialaitv.vn/radio.m3u8
+
 baohatinh.vn
 bhttv 720p
-https://httv-live.1cdn.vn/live/httv1/chunklist_w513994287.m3u8
-https://httv-live.1cdn.vn/live/httv1/playlist.m3u8
+https://live.baohatinh.vn/httv1/index.m3u8
+https://live.baohatinh.vn/httv1/httv1.m3u8
 bhttv radio
-https://httv-live.1cdn.vn/radio/voht/chunklist_w847171373.m3u8
-https://httv-live.1cdn.vn/radio/voht/playlist.m3u8
+https://live.baohatinh.vn/voht/index.m3u8
+https://live.baohatinh.vn/voht/voht.m3u8
 
 thhp.vn
 thp hd
@@ -481,7 +487,7 @@ ntv hd
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 von nghe an radio
-https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
+https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
 https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
 
 nbtv.vn
@@ -517,6 +523,22 @@ https://live.canthotv.vn/cs3/tv/playlist.m3u8
 can tho radio
 https://live.canthotv.vn/live/radio/chunklist.m3u8
 https://live.canthotv.vn/live/radio/playlist.m3u8
+
+vov.vn
+vov1
+https://audio-lss.vov.vn/live/vov1.m3u8
+vov2
+https://audio-lss.vov.vn/live/vov2.m3u8
+vov3
+https://audio-lss.vov.vn/live/vov3.m3u8
+vov4
+https://audio-lss.vov.vn/live/vov4.m3u8
+vov5
+https://audio-lss.vov.vn/live/vov5.m3u8
+vov6
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/.m3u8
+vov giao thong
+https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
 
 m3u8 khac
 bhttv ha tinh 720p
@@ -1099,7 +1121,9 @@ https://live-hq.evgcdn.net/live/2853bb18b89d074498c81d7a0deb32a3755/chunklist.m3
 https://live-hq.evgcdn.net/live/2853bb18b89d074498c81d7a0deb32a3755/playlist.m3u8
 
 118.107.85.4:1935
+dnnrtv1 dong nai 480p
 https://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
+https://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_1384000.m3u8
 dnnrtv1 dong nai 360p
 https://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_b584000.m3u8
 dnnrtv2 dong nai sd
@@ -1944,6 +1968,20 @@ antv 720p
 https://luuchieu.truyenhinhso.vn/media/live/74CE8EB8C9F813053E704DE6/index.m3u8
 qpvn 720p
 https://luuchieu.truyenhinhso.vn/media/live/9F7A34862D75E49111D3A5BE/index.m3u8
+lao cai dan toc radio
+https://luuchieu.truyenhinhso.vn/media/live/EB3679E0A4EB1DD7FE8FB626/index.m3u8
+lao cai radio
+https://luuchieu.truyenhinhso.vn/media/live/E6AB5C0B9F33C2E0947CFAF5/index.m3u8
+lai chau radio
+https://luuchieu.truyenhinhso.vn/media/live/CAEF2D87600663654AA4B546/index.m3u8
+phu tho radio
+https://luuchieu.truyenhinhso.vn/media/live/2891C20AEEE55F9DD1ADB330/index.m3u8
+vov3 radio
+https://luuchieu.truyenhinhso.vn/media/live/243410071B24D57B0C280184/index.m3u8
+vov2
+https://luuchieu.truyenhinhso.vn/media/live/C8A57BB400170C263E73A5E1/index.m3u8
+vov1
+https://luuchieu.truyenhinhso.vn/media/live/370CC0DC3538A7A8102A3884/index.m3u8
 
 sgclient.duckdns
 vtv1 hd
