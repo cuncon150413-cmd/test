@@ -41,11 +41,11 @@ https://freem3u.xyz/api/live/play.m3u8?vid=31
 #EXTINF:-1 tvg-id="tvbvn" tvg-name="tvb viet nam" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5f/784px-Tvb_logo.svg.png" group-title="Thiết Yếu",TVB Việt Nam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="ONNA MX1" tvg-name="oni1" tvg-logo="" group-title="Thiết Yếu",Kênh đã ngừng hoạt động
-
+https://live.kinescopecdn.net/on-air/64466dda-e6a4-41a0-9a8c-b29bfd81acd3/7c1e91cf-611d-4915-a70b-6d4b1be45f6c/master.m3u8
 #EXTINF:-1 tvg-id="fptplay2" tvg-name="fpt play channel 2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="Thiết Yếu",FPT Play Login
 https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 #EXTINF:-1 tvg-id="fptplay" tvg-name="fpt play channel" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="Thiết Yếu",FPT Play
-https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8https://live.kinescopecdn.net/on-air/64466dda-e6a4-41a0-9a8c-b29bfd81acd3/7c1e91cf-611d-4915-a70b-6d4b1be45f6c/master.m3u8
+https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="tv360promo" tvg-name="tv360 promo" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/69/TV360_Promo.png/revision/latest?cb=20260404085321&path-prefix=vi" group-title="Thiết Yếu",TV360 PROMO
 https://freem3u.xyz/api/live/play.m3u8?vid=9904
 
