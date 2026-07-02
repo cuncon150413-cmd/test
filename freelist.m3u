@@ -56,9 +56,9 @@ https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/hanoi1-360p.m3u8
 #EXTINF:-1,hn2
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/hanoi2-360p.m3u8
 #EXTINF:-1,qngtv1 quangngai
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+https://vtvgolive-ott3.vtvdigital.vn/live/quangngaitv/chunklist_0.m3u8
 #EXTINF:-1,qngtv2 quangngai
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_0.m3u8
 #EXTINF:-1,atv1 angiang
 https://1011154949.vnns.net/CDN-FPT02/ANGIANG-SD-720p/playlist.m3u8
 #EXTINF:-1,atv2 angiang
@@ -66,9 +66,9 @@ https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
 #EXTINF:-1,atv3 angiang
 https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
 #EXTINF:-1,ctv camau
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/camau-360p.m3u8           
 #EXTINF:-1,can tho 1
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho1-360p.m3u8
+https://vtvgolive-ott3.vtvdigital.vn/live/haugiangtv/chunklist_0.m3u8
 #EXTINF:-1,can tho 2
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho2-360p.m3u8
 #EXTINF:-1,can tho 3
@@ -98,19 +98,21 @@ https://1011154949.vnns.net/CDN-FPT02/DANANG1-SD-720p/playlist.m3u8
 #EXTINF:-1,dnrt2 da nang
 https://liveh34.vtvprime.vn/hls/DANANG2/01.m3u8
 #EXTINF:-1,dnnrtv1 dong nai
-https://stream.thingnet.vn/live/smil:DNTV1.smil/chunklist_b584000.m3u8
+https://vtvgolive-ott4.vtvdigital.vn/live/gialaitv/chunklist_0.m3u8
 #EXTINF:-1,dnnrtv2 dong nai
-https://stream.thingnet.vn/live/smil:DNTV2.smil/chunklist_b584000.m3u8
+https://vtvgolive-ott3.vtvdigital.vn/live/phuthotv/chunklist_0.m3u8
 #EXTINF:-1,dnnrtv3 dong nai
 https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
 #EXTINF:-1,dtv dien bien
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
 #EXTINF:-1,bhttv ha tinh
 https://liveh34.vtvprime.vn/hls/HATINH/01.m3u8
+#EXTINF:-1,huetv hue
+https://vtvgolive-ott4.vtvdigital.vn/live/huetv/chunklist_0.m3u8
 #EXTINF:-1,hytv hung yen
 https://liveh12.vtvprime.vn/hls/HUNGYENTV/01.m3u8
 #EXTINF:-1,thp hai phong
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+https://vtvgolive-ott3.vtvdigital.vn/live/haiphongtv/chunklist_0.m3u8
 #EXTINF:-1,thp3 hai phong
 https://liveh34.vtvprime.vn/hls/HAIPHONG3/01.m3u8
 #EXTINF:-1,thdt1 dong thap
@@ -123,8 +125,6 @@ https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
 https://liveh12.vtvprime.vn/hls/KHANHHOATV/01.m3u8
 #EXTINF:-1,ktv1 khanh hoa
 https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
-#EXTINF:-1,huetv hue
-https://vtvgolive-ott4.vtvdigital.vn/live/huetv/chunklist_0.m3u8
 #EXTINF:-1,ltv lai chau
 https://vtvgolive-ott4.vtvdigital.vn/live/laichautv/chunklist_0.m3u8
 #EXTINF:-1,lstv lang son
@@ -150,8 +150,8 @@ https://liveh12.vtvprime.vn/hls/QUANGNINHTV/01.m3u8
 #EXTINF:-1,qtv3 quang ninh
 https://liveh34.vtvprime.vn/hls/QUANGNINH3/01.m3u8
 #EXTINF:-1,tn1 thai nguyen
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+https://vtvgolive-ott3.vtvdigital.vn/live/thainguyentv/chunklist_0.m3u8
 #EXTINF:-1,ttv thanh hoa
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+http://123.31.36.68/live.m3u8?c=vstv525&q=high&pkg=pkg12.hni
 #EXTINF:-1,ttv tuyen quang
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+https://vtvgolive-ott3.vtvdigital.vn/live/hagiangtv/chunklist_0.m3u8
