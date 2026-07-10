@@ -619,6 +619,44 @@ PBS KIDS 480p
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 CGTN English
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+cctv 1 hd
+http://198.204.228.26/live/cctv1hd.m3u8
+cctv 2 hd
+http://198.204.228.26/live/cctv2hd.m3u8
+cctv 3 hd
+http://198.204.228.26/live/cctv3hd.m3u8
+cctv 4 hd
+http://198.204.228.26/live/cctv4hd.m3u8
+cctv 5 hd
+http://198.204.228.26/live/cctv5hd.m3u8
+cctv 6 hd
+http://198.204.228.26/live/cctv6hd.m3u8
+cctv 7 hd
+http://198.204.228.26/live/cctv7hd.m3u8
+cctv 8 hd
+http://198.204.228.26/live/cctv8hd.m3u8
+cctv 9 hd
+http://198.204.228.26/live/cctv9hd.m3u8
+cctv 10 hd
+http://198.204.228.26/live/cctv10hd.m3u8
+cctv 11 hd
+http://198.204.228.26/live/cctv11hd.m3u8
+cctv 12 hd
+http://198.204.228.26/live/cctv12hd.m3u8
+cctv 13 hd
+http://198.204.228.26/live/cctv13hd.m3u8
+cctv 14 hd
+http://198.204.228.26/live/cctv14hd.m3u8
+cctv 15 hd
+http://198.204.228.26/live/cctv15hd.m3u8
+cctv 16 hd
+http://198.204.228.26/live/cctv16hd.m3u8
+cctv 17 hd
+http://198.204.228.26/live/cctv17hd.m3u8
+cctv 4k 720p
+http://198.204.240.250:82/live/cctv4k.m3u8
+cctv 8k 8k
+http://198.204.240.250:82/live/cctv8k.m3u8
 
 live.baoquangninh.vn
 qtv1 quang ninh hd
@@ -652,27 +690,63 @@ https://natv.vncdn.vn/tvlive/tv3live.m3u8
 ntv nghe an hd
 https://natv.vncdn.vn/natvlive/tv1live.m3u8
 
+live.baobinhphuoc.com.vn
+qtv1 quang ninh hd
+https://live.baobinhphuoc.com.vn/qtvlive/tv1live.m3u8
+qtv3 quang ninh hd
+https://live.baobinhphuoc.com.vn/tvlive/tv3live.m3u8
+ntv nghe an hd
+https://live.baobinhphuoc.com.vn/natvlive/tv1live.m3u8
+
 truyenhinh.vnptvas.vn
-dtv dien bien sd720x406
+dtv dien bien 720x406
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
-ltv lai chau sd720x406
+dtv dien bien 720p
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=sd&pkg=pkg11.hni
+ltv lai chau 720x406
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni
-thd hai duong720x406
+ltv lai chau 720p
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=sd&pkg=pkg11.hni
+thd hai duong 720x406
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&pkg=pkg11.hni
-tbk bac kan720x406
+thd hai duong 720p
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=sd&pkg=pkg11.hni
+tbk bac kan 720x406
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&pkg=pkg11.hni
+tbk bac kan 720p
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=sd&pkg=pkg11.hni
+hgtv ha giang 720x406
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=high&pkg=pkg11.hni
+hgtv ha giang 720p
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=sd&pkg=pkg11.hni
+ttv thanh hoa 720x406
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=high&pkg=pkg12.hni
 ttv thanh hoa 720p
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 
 123.31.36.68
-dtv dien bien sd720x406
+dtv dien bien 720x406
 https://123.31.36.68/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
-ltv lai chau sd720x406
-http://123.31.36.68/live.m3u8?c=vstv361&q=high&type=tv&location=NA&pkg=pkg11.hni
-thd hai duong720x406
-http://123.31.36.68/live.m3u8?c=vstv369&q=high&pkg=pkg11.hni
-tbk bac kan720x406
-http://123.31.36.68/live.m3u8?c=vstv360&q=high&pkg=pkg11.hni
+dtv dien bien 720p
+https://123.31.36.68/live.m3u8?c=vstv362&q=sd&pkg=pkg11.hni
+ltv lai chau 720x406
+https://123.31.36.68/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni
+ltv lai chau 720p
+https://123.31.36.68/live.m3u8?c=vstv361&q=sd&pkg=pkg11.hni
+thd hai duong 720x406
+https://123.31.36.68/live.m3u8?c=vstv369&q=high&pkg=pkg11.hni
+thd hai duong 720p
+https://123.31.36.68/live.m3u8?c=vstv369&q=sd&pkg=pkg11.hni
+tbk bac kan 720x406
+https://123.31.36.68/live.m3u8?c=vstv360&q=high&pkg=pkg11.hni
+tbk bac kan 720p
+https://123.31.36.68/live.m3u8?c=vstv360&q=sd&pkg=pkg11.hni
+hgtv ha giang 720x406
+https://123.31.36.68/live.m3u8?c=vstv365&q=high&pkg=pkg11.hni
+hgtv ha giang 720p
+https://123.31.36.68/live.m3u8?c=vstv365&q=sd&pkg=pkg11.hni
+ttv thanh hoa 720x406
+https://123.31.36.68/live.m3u8?c=vstv525&q=high&pkg=pkg12.hni
 ttv thanh hoa 720p
 https://123.31.36.68/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 
@@ -2849,122 +2923,107 @@ https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 
 vtvprime.vn
 htv4 720p
-https://liveh12byt.vtvprime.vn/hls/HTVKey/index.m3u8
 https://liveh12byt.vtvprime.vn/hls/HTVKey/03.m3u8
 htv4 480p
 https://liveh12byt.vtvprime.vn/hls/HTVKey/02.m3u8
 htv4 360p
 https://liveh12byt.vtvprime.vn/hls/HTVKey/01.m3u8
 hanoitv1 720p
-https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8
 https://liveh34.vtvprime.vn/hls/HANOI1TV/03.m3u8
 hanoitv1 480p
 https://liveh34.vtvprime.vn/hls/HANOI1TV/02.m3u8
 hanoitv1 360p
 https://liveh34.vtvprime.vn/hls/HANOI1TV/01.m3u8
 btv bac ninh 720p
-https://liveh34.vtvprime.vn/hls/BACGIANGTV/index.m3u8
 https://liveh34.vtvprime.vn/hls/BACGIANGTV/03.m3u8
 btv bac ninh 480p
 https://liveh34.vtvprime.vn/hls/BACGIANGTV/02.m3u8
 btv bac ninh 360p
 https://liveh34.vtvprime.vn/hls/BACGIANGTV/01.m3u8
 dnrt1 da nang 720p
-https://liveh12.vtvprime.vn/hls/DANANGTV/index.m3u8
 https://liveh12.vtvprime.vn/hls/DANANGTV/03.m3u8
 dnrt1 da nang 480p
 https://liveh12.vtvprime.vn/hls/DANANGTV/02.m3u8
 dnrt1 da nang 360p
 https://liveh12.vtvprime.vn/hls/DANANGTV/01.m3u8
 dnrt2 da nang 720p
-https://liveh34.vtvprime.vn/hls/DANANG2/index.m3u8
 https://liveh34.vtvprime.vn/hls/DANANG2/03.m3u8
 dnrt2 da nang 480p
 https://liveh34.vtvprime.vn/hls/DANANG2/02.m3u8
 dnrt2 da nang 360p
 https://liveh34.vtvprime.vn/hls/DANANG2/01.m3u8
 thdt dong thap 720p
-https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
 https://liveh34.vtvprime.vn/hls/DONGTHAPTV/03.m3u8
 thdt dong thap 480p
 https://liveh34.vtvprime.vn/hls/DONGTHAPTV/02.m3u8
 thdt dong thap 360p
 https://liveh34.vtvprime.vn/hls/DONGTHAPTV/01.m3u8
 ktv khanh hoa 720p
-https://liveh12.vtvprime.vn/hls/KHANHHOATV/index.m3u8
 https://liveh12.vtvprime.vn/hls/KHANHHOATV/03.m3u8
 ktv khanh hoa 480p
 https://liveh12.vtvprime.vn/hls/KHANHHOATV/02.m3u8
 ktv khanh hoa 360p
 https://liveh12.vtvprime.vn/hls/KHANHHOATV/01.m3u8
 qtv1 quang ninh 720p
-https://liveh12.vtvprime.vn/hls/QUANGNINHTV/index.m3u8
 https://liveh12.vtvprime.vn/hls/QUANGNINHTV/03.m3u8
 qtv1 quang ninh 480p
 https://liveh12.vtvprime.vn/hls/QUANGNINHTV/02.m3u8
 qtv1 quang ninh 360p
 https://liveh12.vtvprime.vn/hls/QUANGNINHTV/01.m3u8
 qtv3 quang ninh 720p
-https://liveh34.vtvprime.vn/hls/QUANGNINH3/index.m3u8
 https://liveh34.vtvprime.vn/hls/QUANGNINH3/03.m3u8
 qtv3 quang ninh 480p
 https://liveh34.vtvprime.vn/hls/QUANGNINH3/02.m3u8
 qtv3 quang ninh 360p
 https://liveh34.vtvprime.vn/hls/QUANGNINH3/01.m3u8
 thp3 hai phong 720p
-https://liveh34.vtvprime.vn/hls/HAIPHONG3/index.m3u8
 https://liveh34.vtvprime.vn/hls/HAIPHONG3/03.m3u8
 thp3 hai phong 480p
 https://liveh34.vtvprime.vn/hls/HAIPHONG3/02.m3u8
 thp3 hai phong 360p
 https://liveh34.vtvprime.vn/hls/HAIPHONG3/01.m3u8
 lstv lang son 720p
-https://liveh34.vtvprime.vn/hls/LANGSON/index.m3u8
 https://liveh34.vtvprime.vn/hls/LANGSON/03.m3u8
 lstv lang son 480p
 https://liveh34.vtvprime.vn/hls/LANGSON/02.m3u8
 lstv lang son 360p
 https://liveh34.vtvprime.vn/hls/LANGSON/01.m3u8
 hytv hung yen 720p
-https://liveh12.vtvprime.vn/hls/HUNGYENTV/index.m3u8
 https://liveh12.vtvprime.vn/hls/HUNGYENTV/03.m3u8
 hytv hung yen 480p
 https://liveh12.vtvprime.vn/hls/HUNGYENTV/02.m3u8
 hytv hung yen 360p
 https://liveh12.vtvprime.vn/hls/HUNGYENTV/01.m3u8
 bhttv ha tinh 720p
-https://liveh34.vtvprime.vn/hls/HATINH/index.m3u8
 https://liveh34.vtvprime.vn/hls/HATINH/03.m3u8
 bhttv ha tinh 480p
 https://liveh34.vtvprime.vn/hls/HATINH/02.m3u8
 bhttv ha tinh 360p
 https://liveh34.vtvprime.vn/hls/HATINH/01.m3u8
 ntv nghe an 720p
-https://liveh12.vtvprime.vn/hls/NGHEANTV/index.m3u8
 https://liveh12.vtvprime.vn/hls/NGHEANTV/03.m3u8
 ntv nghe an 480p
 https://liveh12.vtvprime.vn/hls/NGHEANTV/02.m3u8
 ntv nghe an 360p
 https://liveh12.vtvprime.vn/hls/NGHEANTV/01.m3u8
 mien tay thdt 2 720p
-https://liveh34.vtvprime.vn/hls/DONGTHAP2/index.m3u8
 https://liveh34.vtvprime.vn/hls/DONGTHAP2/03.m3u8
 mien tay thdt 2 480p
 https://liveh34.vtvprime.vn/hls/DONGTHAP2/02.m3u8
 mien tay thdt 2 360p
 https://liveh34.vtvprime.vn/hls/DONGTHAP2/01.m3u8
 ltv2 lam dong 720p
-https://liveh34.vtvprime.vn/hls/LAMDONG/index.m3u8
 https://liveh34.vtvprime.vn/hls/LAMDONG/03.m3u8
 ltv2 lam dong 480p
 https://liveh34.vtvprime.vn/hls/LAMDONG/02.m3u8
 ltv2 lam dong 360p
 https://liveh34.vtvprime.vn/hls/LAMDONG/01.m3u8
 Asian Food Network 720p
-https://liveh12byt.vtvprime.vn/hls/AFC/index.m3u8
 https://liveh12byt.vtvprime.vn/hls/AFC/03.m3u8
 Asian Food Network 480p
 https://liveh12byt.vtvprime.vn/hls/AFC/02.m3u8
+Asian Food Network 480p
+https://liveh12byt.vtvprime.vn/hls/AFC/01.m3u8
 
 other
 lo am nhac tiktok sd
