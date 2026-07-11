@@ -429,3 +429,42 @@ https://live.mediatech.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8
 https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
 #EXTINF:-1 tvg-id="vinhlongaudio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Vĩnh Long Radio
 https://dethich.pw/thvlaudio/index.m3u8
+
+#EXTINF:-1 tvg-id="AFC" tvg-name="" tvg-logo="" group-title="Quốc Tế",AFC Asian Food Network
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="amimalplanet" tvg-name="" tvg-logo="" group-title="Quốc Tế",Amimal Planet
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="" tvg-logo="" group-title="Quốc Tế",ALJAZEERA
+https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="BBC" tvg-name="" tvg-logo="" group-title="Quốc Tế",BBC News
+https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bloomberg" tvg-name="" tvg-logo="" group-title="Quốc Tế",Bloomberg
+https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg-avc1_3000000=11-mp4a_256000_eng=10.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="" tvg-logo="" group-title="Quốc Tế",Cartoon Network
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="" tvg-logo="" group-title="Quốc Tế",CGTN English
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+#EXTINF:-1 tvg-id="CW" tvg-name="" tvg-logo="" group-title="Quốc Tế",Cinema World TV
+https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV-avc1_2000000=14-mp4a_256000=13.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-name="" tvg-logo="" group-title="Quốc Tế",CNN
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+#EXTINF:-1 tvg-id="DC" tvg-name="" tvg-logo="" group-title="Quốc Tế",Discovery Channel
+https://cdn4.skygo.mn/live/disk1/SoutheastAsia/HLSv3-FTA/SoutheastAsia.m3u8
+#EXTINF:-1 tvg-id="DW" tvg-name="" tvg-logo="" group-title="Quốc Tế",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Quốc Tế",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Quốc Tế",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Quốc Tế",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Quốc Tế",
+
+#EXTINF:-1 tvg-id="fashiontv" tvg-name="" tvg-logo="" group-title="Quốc Tế",FashionTV
+https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="pbskid" tvg-name="" tvg-logo="" group-title="Quốc Tế",PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Quốc Tế",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Quốc Tế",
+
