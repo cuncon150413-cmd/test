@@ -498,9 +498,9 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-logo="" group-title="Quốc Tế",Cinema World TV
 https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV-avc1_2000000=14-mp4a_256000=13.m3u8
 #EXTINF:-1 tvg-id="DC" tvg-name="DC" tvg-logo="" group-title="Quốc Tế",Discovery Channel
-https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+https://cdn4.skygo.mn/live/disk1/SoutheastAsia/HLSv3-FTA/SoutheastAsia.m3u8
 #EXTINF:-1 tvg-id="davinci" tvg-name="davinci" tvg-logo="" group-title="Quốc Tế",Da Vinci
-https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b2500000.m3u8
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="" group-title="Quốc Tế",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="EBS1" tvg-name="EBS1" tvg-logo="" group-title="Quốc Tế",EBS1
@@ -513,16 +513,18 @@ https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="france24" tvg-name="france24" tvg-logo="" group-title="Quốc Tế",France24
 https://freem3u.xyz/api/live/play.m3u8?vid=96
-#EXTINF:-1 tvg-id="kbsworld" tvg-name="kbsworld" tvg-logo="" group-title="Quốc Tế",KBS World
-https://freem3u.xyz/api/live/play.m3u8?vid=213
-#EXTINF:-1 tvg-id="kdrama" tvg-name="kdrama" tvg-logo="" group-title="Quốc Tế",K-DRAMA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
+#EXTINF:-1 tvg-id="hgtv" tvg-name="hgtv" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/HGTV_HD_logo_2025.png/revision/latest/scale-to-width-down/1000?cb=20250304065334&path-prefix=vi" group-title="Quốc Tế",HGTV
+https://freem3u.xyz/api/live/play.m3u8?vid=99
 #EXTINF:-1 tvg-id="indiatoday" tvg-name="indiatoday" tvg-logo="" group-title="Quốc Tế",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320-b/indiatoday/indiatodaylive/live_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="justforlaughsgags" tvg-name="justforlaughsgags" tvg-logo="" group-title="Quốc Tế",Just For Laughs Gags
 https://distributionsjustepourrire-justforlaughsgags-1-lu.samsung.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-id="jtv" tvg-name="jtv" tvg-logo="" group-title="Quốc Tế",JTV Jeonju Television
 http://61.85.197.53:1935/jtv_live/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="kbsworld" tvg-name="kbsworld" tvg-logo="" group-title="Quốc Tế",KBS World
+https://freem3u.xyz/api/live/play.m3u8?vid=213
+#EXTINF:-1 tvg-id="kdrama" tvg-name="kdrama" tvg-logo="" group-title="Quốc Tế",K-DRAMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
 #EXTINF:-1 tvg-id="kix" tvg-name="kix" tvg-logo="" group-title="Quốc Tế",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kpoptv" tvg-name="kpoptv" tvg-logo="" group-title="Quốc Tế",KPOPTV
