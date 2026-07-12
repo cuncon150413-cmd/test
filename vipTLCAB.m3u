@@ -430,41 +430,79 @@ https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
 #EXTINF:-1 tvg-id="vinhlongaudio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Vĩnh Long Radio
 https://dethich.pw/thvlaudio/index.m3u8
 
-#EXTINF:-1 tvg-id="AFC" tvg-name="" tvg-logo="" group-title="Quốc Tế",AFC Asian Food Network
+#EXTINF:-1 tvg-id="AFC" tvg-name="AFC" tvg-logo="" group-title="Quốc Tế",AFC Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="amimalplanet" tvg-name="" tvg-logo="" group-title="Quốc Tế",Amimal Planet
+#EXTINF:-1 tvg-id="amimalplanet" tvg-name="amimalplanet" tvg-logo="" group-title="Quốc Tế",Amimal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="" tvg-logo="" group-title="Quốc Tế",ALJAZEERA
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="" group-title="Quốc Tế",ALJAZEERA
 https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="BBC" tvg-name="" tvg-logo="" group-title="Quốc Tế",BBC News
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="" group-title="Quốc Tế",BBC News
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="bloomberg" tvg-name="" tvg-logo="" group-title="Quốc Tế",Bloomberg
+#EXTINF:-1 tvg-id="bloomberg" tvg-name="bloomberg" tvg-logo="" group-title="Quốc Tế",Bloomberg
 https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg-avc1_3000000=11-mp4a_256000_eng=10.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="" tvg-logo="" group-title="Quốc Tế",Cartoon Network
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="cartoonnetwork" tvg-logo="" group-title="Quốc Tế",Cartoon Network
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="" tvg-logo="" group-title="Quốc Tế",CGTN English
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="Quốc Tế",CGTN English
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#EXTINF:-1 tvg-id="CW" tvg-name="" tvg-logo="" group-title="Quốc Tế",Cinema World TV
+#EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-logo="" group-title="Quốc Tế",Cinema World TV
 https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV-avc1_2000000=14-mp4a_256000=13.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="" tvg-logo="" group-title="Quốc Tế",CNN
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="Quốc Tế",CNN
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-#EXTINF:-1 tvg-id="DC" tvg-name="" tvg-logo="" group-title="Quốc Tế",Discovery Channel
+#EXTINF:-1 tvg-id="DC" tvg-name="DC" tvg-logo="" group-title="Quốc Tế",Discovery Channel
 https://cdn4.skygo.mn/live/disk1/SoutheastAsia/HLSv3-FTA/SoutheastAsia.m3u8
-#EXTINF:-1 tvg-id="DW" tvg-name="" tvg-logo="" group-title="Quốc Tế",DW
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="" group-title="Quốc Tế",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Quốc Tế",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Quốc Tế",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Quốc Tế",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Quốc Tế",
-
-#EXTINF:-1 tvg-id="fashiontv" tvg-name="" tvg-logo="" group-title="Quốc Tế",FashionTV
+#EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="" group-title="Quốc Tế",FashionTV
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="pbskid" tvg-name="" tvg-logo="" group-title="Quốc Tế",PBS KIDS
+#EXTINF:-1 tvg-id="jtv" tvg-name="" tvg-logo="jtv" group-title="Quốc Tế",JTV Jeonju Television
+http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
+#EXTINF:-1 tvg-id="pbskid" tvg-name="pbskid" tvg-logo="" group-title="Quốc Tế",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Quốc Tế",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Quốc Tế",
-
+#EXTINF:-1 tvg-id="plearth" tvg-name="plearth" tvg-logo="" group-title="Quốc Tế",PL Earth hd
+https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="RTT" tvg-name="RTT" tvg-logo="" group-title="Quốc Tế",RT Today
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT1" tvg-name="TRT1" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/68/TRT_HD.png/revision/latest/scale-to-width-down/1000?cb=20250225033752&path-prefix=vi" group-title="Quốc Tế",TRT1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="" group-title="Quốc Tế",TVN
+https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="warner" tvg-name="warner" tvg-logo="" group-title="Quốc Tế",WB WarnerTV
+https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
+#EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="" group-title="Quốc Tế",CCTV1
+http://198.204.228.26/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="" group-title="Quốc Tế",CCTV2
+http://198.204.228.26/live/cctv2hd.m3u8
+#EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="" group-title="Quốc Tế",CCTV3
+http://198.204.228.26/live/cctv3hd.m3u8
+#EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="" group-title="Quốc Tế",CCTV4
+http://198.204.228.26/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="" group-title="Quốc Tế",CCTV5
+http://198.204.228.26/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="" group-title="Quốc Tế",CCTV6
+http://198.204.228.26/live/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="cctv7" tvg-name="cctv7" tvg-logo="" group-title="Quốc Tế",CCTV7
+http://198.204.228.26/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8" tvg-logo="" group-title="Quốc Tế",CCTV8
+http://198.204.228.26/live/cctv8hd.m3u8
+#EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="" group-title="Quốc Tế",CCTV9
+http://198.204.228.26/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="" group-title="Quốc Tế",CCTV10
+http://198.204.228.26/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-id="cctv11" tvg-name="cctv11" tvg-logo="" group-title="Quốc Tế",CCTV11
+http://198.204.228.26/live/cctv11hd.m3u8
+#EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="" group-title="Quốc Tế",CCTV12
+http://198.204.228.26/live/cctv12hd.m3u8
+#EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="" group-title="Quốc Tế",CCTV13
+http://198.204.228.26/live/cctv13hd.m3u8
+#EXTINF:-1 tvg-id="cctv14" tvg-name="cctv14" tvg-logo="" group-title="Quốc Tế",CCTV14
+http://198.204.228.26/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" tvg-logo="" group-title="Quốc Tế",CCTV15
+http://198.204.228.26/live/cctv15hd.m3u8
+#EXTINF:-1 tvg-id="cctv16" tvg-name="cctv16" tvg-logo="" group-title="Quốc Tế",CCTV16
+http://198.204.228.26/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="" group-title="Quốc Tế",CCTV17
+http://198.204.228.26/live/cctv17hd.m3u8
+#EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="" group-title="Quốc Tế",CCTV 4K
+http://198.204.228.26/live/cctv4k.m3u8
+#EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="" group-title="Quốc Tế",CCTV 8K
+http://198.204.228.26/live/cctv8k.m3u8
