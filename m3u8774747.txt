@@ -607,7 +607,6 @@ https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 cartoon network
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 TVN hd
-https://068a6e22c9d24547a89af93846c81a1f.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/9f01a117-4b1a-4165-90a5-ec2535fb0e3d/0.m3u8
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
 TVN 720p
 https://068a6e22c9d24547a89af93846c81a1f.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/9f01a117-4b1a-4165-90a5-ec2535fb0e3d/1.m3u8
@@ -621,6 +620,8 @@ PBS KIDS 480p
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 CGTN English
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+sony channel hd
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 cctv 1 hd
 http://198.204.228.26/live/cctv1hd.m3u8
 cctv 2 hd

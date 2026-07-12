@@ -1,7 +1,4 @@
-#EXTM3U tvg-url="https://vnepg.site/epg.xml" m3uautoload=1
-#EXTM3U tvg-url="http://lichphatsong.xyz/schedule/epg.xml" m3uautoload=1
-#EXTM3U tvg-url="https://onnamx.io.vn/epg.xml" m3uautoload=1
-#EXTM3U tvg-url="" m3uautoload=1
+#EXTM3U tvg-url="https://vnepg.site/epg.xml,http://lichphatsong.xyz/schedule/epg.xml,https://onnamx.io.vn/epg.xml" m3uautoload=1
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="vtv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/VTV1_logo_2013_final.svg" group-title="VTV",VTV1
 https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
@@ -359,6 +356,10 @@ https://audio-lss.vov.vn/live/vov4.m3u8
 https://audio-lss.vov.vn/live/vov5.m3u8
 #EXTINF:-1 tvg-id="vov6" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV6
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/.m3u8
+#EXTINF:-1 tvg-id="vovgthn" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV Giao Thông Hà Nội
+https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
+#EXTINF:-1 tvg-id="vovgthcm" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV Giao Thông Hồ Chí Minh
+https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgt" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV Giao Thông
 https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
 #EXTINF:-1 tvg-id="voh999" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOH 9,99 mhz
@@ -430,12 +431,14 @@ https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
 #EXTINF:-1 tvg-id="vinhlongaudio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Vĩnh Long Radio
 https://dethich.pw/thvlaudio/index.m3u8
 
-#EXTINF:-1 tvg-id="AFC" tvg-name="AFC" tvg-logo="" group-title="Quốc Tế",AFC Asian Food Network
+#EXTINF:-1 tvg-id="AFN" tvg-name="AFN" tvg-logo="" group-title="Quốc Tế",AFN Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="amimalplanet" tvg-name="amimalplanet" tvg-logo="" group-title="Quốc Tế",Amimal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="" group-title="Quốc Tế",ALJAZEERA
 https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="AK" tvg-name="AK" tvg-logo="" group-title="Quốc Tế",Arirang Korea
+https://freem3u.xyz/api/live/play.m3u8?vid=111
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="" group-title="Quốc Tế",BBC News
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bloomberg" tvg-name="bloomberg" tvg-logo="" group-title="Quốc Tế",Bloomberg
@@ -444,21 +447,31 @@ https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg-avc1_3000000=11-m
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="Quốc Tế",CGTN English
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-logo="" group-title="Quốc Tế",Cinema World TV
-https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV-avc1_2000000=14-mp4a_256000=13.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="" group-title="Quốc Tế",CNA
+https://freem3u.xyz/api/live/play.m3u8?vid=112
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="Quốc Tế",CNN
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+#EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-logo="" group-title="Quốc Tế",Cinema World TV
+https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV-avc1_2000000=14-mp4a_256000=13.m3u8
 #EXTINF:-1 tvg-id="DC" tvg-name="DC" tvg-logo="" group-title="Quốc Tế",Discovery Channel
 https://cdn4.skygo.mn/live/disk1/SoutheastAsia/HLSv3-FTA/SoutheastAsia.m3u8
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="" group-title="Quốc Tế",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="" group-title="Quốc Tế",FashionTV
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="france24" tvg-name="france24" tvg-logo="" group-title="Quốc Tế",France24
+https://freem3u.xyz/api/live/play.m3u8?vid=96
+#EXTINF:-1 tvg-id="kbsworld" tvg-name="kbsworld" tvg-logo="" group-title="Quốc Tế",KBS World
+https://freem3u.xyz/api/live/play.m3u8?vid=213
 #EXTINF:-1 tvg-id="jtv" tvg-name="" tvg-logo="jtv" group-title="Quốc Tế",JTV Jeonju Television
 http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
+#EXTINF:-1 tvg-id="nhk" tvg-name="nhk" tvg-logo="jtv" group-title="Quốc Tế",NHK World
+https://freem3u.xyz/api/live/play.m3u8?vid=106
+#EXTINF:-1 tvg-id="od" tvg-name="od" tvg-logo="" group-title="Quốc Tế",Ourdoor
+https://freem3u.xyz/api/live/play.m3u8?vid=216
 #EXTINF:-1 tvg-id="pbskid" tvg-name="pbskid" tvg-logo="" group-title="Quốc Tế",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
-#EXTINF:-1 tvg-id="plearth" tvg-name="plearth" tvg-logo="" group-title="Quốc Tế",PL Earth hd
+#EXTINF:-1 tvg-id="plearth" tvg-name="plearth" tvg-logo="" group-title="Quốc Tế",Planet Earth
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="RTT" tvg-name="RTT" tvg-logo="" group-title="Quốc Tế",RT Today
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
