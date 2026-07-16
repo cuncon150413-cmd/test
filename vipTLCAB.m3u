@@ -501,7 +501,7 @@ https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV-avc1_2000000=14-mp4
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="DC" tvg-name="DC" tvg-logo="" group-title="Quốc Tế",Discovery Channel
 https://cdn4.skygo.mn/live/disk1/SoutheastAsia/HLSv3-FTA/SoutheastAsia.m3u8
-#EXTINF:-1 tvg-id="dongnai2" tvg-name="ĐNNRTV2 Đồng Nai" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/%C4%90NNRTV2.png/revision/latest/scale-to-width-down/1000?cb=20250902053524&path-prefix=vi" group-title="Quốc Tế",ĐNNRTV2 Đồng Nai
+#EXTINF:-1 tvg-id="dongnai2" tvg-name="ĐNNRTV2 Đồng Nai   " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/%C4%90NNRTV2.png/revision/latest/scale-to-width-down/1000?cb=20250902053524&path-prefix=vi" group-title="Quốc Tế",ĐNNRTV2 Đồng Nai   
 https://1.org.vn/dnrtv2-henxui
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="" group-title="Quốc Tế",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
