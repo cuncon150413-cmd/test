@@ -565,6 +565,8 @@ https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
 vietnam today
 https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_2276394438329724940.m3u8
 https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_88353259571126965.m3u8
+vietnam today hd
+https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 vietnam today 360p
 https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_6669540177728122612.m3u8
 
@@ -1846,6 +1848,7 @@ vtv10 hd
 https://live-a.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
 vietnam today hd
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+
 htv7 hd
 https://live-a.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 htv9 hd
@@ -3027,6 +3030,25 @@ Asian Food Network 480p
 https://liveh12byt.vtvprime.vn/hls/AFC/02.m3u8
 Asian Food Network 480p
 https://liveh12byt.vtvprime.vn/hls/AFC/01.m3u8
+QPVN 720p
+https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
+https://liveh12.vtvprime.vn/hls/QPTV/03.m3u8
+QPVN 480p
+https://liveh12.vtvprime.vn/hls/QPTV/02.m3u8
+QPVN 360p
+https://liveh12.vtvprime.vn/hls/QPTV/01.m3u8
+ANTV 720p
+https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
+https://liveh12.vtvprime.vn/hls/ANNINHTV/01.m3u8
+ANTV 480p
+https://liveh12.vtvprime.vn/hls/ANNINHTV/02.m3u8
+NHK WORLD 720p
+https://liveh12.vtvprime.vn/hls/NHKWORLD/index.m3u8
+https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
+NHK WORLD 480p
+https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
+NHK WORLD 360p
+https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
 
 other
 lo am nhac tiktok sd
