@@ -543,6 +543,8 @@ https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8
 huetv 720p
 https://live.trt.com.vn/TRT-Online/playlist.m3u8
 http://trtlive.f77de468.cdnviet.com/TRT-Online/chunklist.m3u8
+hue radio
+http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
 tvb viet nam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 can tho 1 hd
@@ -551,16 +553,11 @@ antv 720x576
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 tn1 thai nguyen 720p
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
+thai nguyen radio
+https://radio.thainguyentv.vn/hls/livestream.m3u8
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
 ntv nghe an hd
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
-oni1 hd
-https://live.kinescopecdn.net/on-air/64466dda-e6a4-41a0-9a8c-b29bfd81acd3/7c1e91cf-611d-4915-a70b-6d4b1be45f6c/master.m3u8
-oni1 720p
-https://live.kinescopecdn.net/on-air/64466dda-e6a4-41a0-9a8c-b29bfd81acd3/7c1e91cf-611d-4915-a70b-6d4b1be45f6c/720p/media.m3u8
-oni1 360p
-https://live.kinescopecdn.net/on-air/64466dda-e6a4-41a0-9a8c-b29bfd81acd3/7c1e91cf-611d-4915-a70b-6d4b1be45f6c/360p/media.m3u8
-oni1 480p
-https://live.kinescopecdn.net/on-air/64466dda-e6a4-41a0-9a8c-b29bfd81acd3/7c1e91cf-611d-4915-a70b-6d4b1be45f6c/480p/media.m3u8
 on vie dramas 720p
 http://dvrfl05.bozztv.com/vch_vchannel18/tracks-v1a1/mono.m3u8
 ttv tuyen quang
@@ -572,6 +569,14 @@ vietnam today hd
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 vietnam today 360p
 https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_6669540177728122612.m3u8
+gia lai radio
+http://14.224.130.186:8000/binhdinh
+vov giao thong ha noi
+https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist.m3u8
+vov giao thong hcm
+https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist.m3u8
+vov5
+https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
 
 Quoc te link khac
 France24
@@ -641,6 +646,8 @@ CGTN English
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 sony channel hd
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+TV5
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 cctv 1 hd
 http://198.204.228.26/live/cctv1hd.m3u8
 cctv 2 hd
@@ -679,6 +686,14 @@ cctv 4k 720p
 http://198.204.240.250:82/live/cctv4k.m3u8
 cctv 8k 8k
 http://198.204.240.250:82/live/cctv8k.m3u8
+
+sohoa.truyenthanhthongminh.vn
+thvl audio
+http://sohoa.truyenthanhthongminh.vn/daitinhvinhlong
+binh duong radio
+http://sohoa.truyenthanhthongminh.vn/sohoabinhduong
+lao cai radio
+http://sohoa.truyenthanhthongminh.vn/sohoatinhlaocai
 
 live.baoquangninh.vn
 qtv1 quang ninh hd
@@ -3259,6 +3274,8 @@ voh 87,7mhz hd
 https://freem3u.xyz/api/live/play.m3u8?vid=10038
 voh 92,5mhz hd
 https://freem3u.xyz/api/live/play.m3u8?vid=10040
+sctv2 720p
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv2
 test
 https://freem3u.xyz/static/no-signal/low.m3u8
 
@@ -3452,6 +3469,13 @@ KBS WORLD 480p
 https://liveh12.vtvprime.vn/hls/KBS/02.m3u8
 KBS WORLD 360p
 https://liveh12.vtvprime.vn/hls/KBS/01.m3u8
+TV5 MONDE 720p
+https://liveh12.vtvprime.vn/hls/TV5/index.m3u8
+https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
+TV5 MONDE 480p
+https://liveh12.vtvprime.vn/hls/TV5/02.m3u8
+TV5 MONDE 360p
+https://liveh12.vtvprime.vn/hls/TV5/01.m3u8
 
 other
 lo am nhac tiktok sd
