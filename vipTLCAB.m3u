@@ -421,7 +421,7 @@ https://stream.thingnet.vn/radio/dongnai_aac/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongthapradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Đồng Tháp
 https://618b88f69e53b.streamlock.net/THDTR/thdtradio/chunklist_w1754694215.m3u8
 #EXTINF:-1 tvg-id="gialairadio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Gia Lai
-https://tv.gialaitv.vn/radio.m3u8
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/gtvmass.mp4
 #EXTINF:-1 tvg-id="hatinhradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Hà Tĩnh
 https://live.baohatinh.vn/voht/voht.m3u8
 #EXTINF:-1 tvg-id="haiduong" tvg-name="fm" tvg-logo="" group-title="FM Radio",Hải Dương
@@ -670,4 +670,4 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 notuse
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
-
+https://tv.gialaitv.vn/radio.m3u8
