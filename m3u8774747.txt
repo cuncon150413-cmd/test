@@ -574,10 +574,18 @@ vietnam today 360p
 https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_6669540177728122612.m3u8
 
 Quoc te link khac
+France24
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+Astrakhan Sport 720p
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+arirang korea 720p
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 PL Earth hd
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 DW hd
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 RT Today hd
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 jtv(korea) 480p?
@@ -588,6 +596,8 @@ https://tv-trt1.medya.trt.com.tr/master_480.m3u8
 cinemaworldtv (korea) hd
 https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
 https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV-avc1_2000000=14-mp4a_256000=13.m3u8
+CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNN hd
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 CNN 960x540
@@ -619,8 +629,12 @@ Warner
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 FashionTV 720x576
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
+FashionTV 
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 Bloomberg
 https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg-avc1_3000000=11-mp4a_256000_eng=10.m3u8
+Bloomberg asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 PBS KIDS 480p
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 CGTN English
@@ -679,6 +693,10 @@ qtv1 quang ninh hd
 http://103.90.220.236/qtvlive/tv1live.m3u8
 qtv3 quang ninh hd
 http://103.90.220.236/qtvlive/tv3live.m3u8
+qnr1 quang ninh 240p
+http://103.90.220.236/qtvlive/qnr1.m3u8
+qnr2 quang ninh 240p
+http://103.90.220.236/qtvlive/qnr2.m3u8
 ntv nghe an hd
 http://103.90.220.236/natvlive/tv1live.m3u8
 
@@ -687,6 +705,10 @@ qtv1 quang ninh hd
 https://qtv.vncdn.vn/qtvlive/tv1live.m3u8
 qtv3 quang ninh 720p
 https://qtv.vncdn.vn/qtvlive/tv3live.m3u8
+qnr1 quang ninh 240p
+https://qtv.vncdn.vn/qtvlive/qnr1.m3u8
+qnr2 quang ninh 240p
+https://qtv.vncdn.vn/qtvlive/qnr2.m3u8
 ntv nghe an hd
 https://qtv.vncdn.vn/natvlive/tv1live.m3u8
 
@@ -695,16 +717,48 @@ qtv1 quang ninh hd
 https://natv.vncdn.vn/qtvlive/tv1live.m3u8
 qtv3 quang ninh hd
 https://natv.vncdn.vn/tvlive/tv3live.m3u8
+qnr1 quang ninh 240p
+https://natv.vncdn.vn/qtvlive/qnr1.m3u8
+qnr2 quang ninh 240p
+https://natv.vncdn.vn/qtvlive/qnr2.m3u8
 ntv nghe an hd
 https://natv.vncdn.vn/natvlive/tv1live.m3u8
+
+live.bacgiangtv.vn
+qtv1 quang ninh hd
+https://live.bacgiangtv.vn/qtvlive/tv1live.m3u8
+qtv3 quang ninh hd
+https://live.bacgiangtv.vn/tvlive/tv3live.m3u8
+qnr1 quang ninh 240p
+https://live.bacgiangtv.vn/qtvlive/qnr1.m3u8
+qnr2 quang ninh 240p
+https://live.bacgiangtv.vn/qtvlive/qnr2.m3u8
+ntv nghe an hd
+https://live.bacgiangtv.vn/natvlive/tv1live.m3u8
 
 live.baobinhphuoc.com.vn
 qtv1 quang ninh hd
 https://live.baobinhphuoc.com.vn/qtvlive/tv1live.m3u8
 qtv3 quang ninh hd
 https://live.baobinhphuoc.com.vn/tvlive/tv3live.m3u8
+qnr1 quang ninh 240p
+https://live.baobinhphuoc.com.vn/qtvlive/qnr1.m3u8
+qnr2 quang ninh 240p
+https://live.baobinhphuoc.com.vn/qtvlive/qnr2.m3u8
 ntv nghe an hd
 https://live.baobinhphuoc.com.vn/natvlive/tv1live.m3u8
+
+live.baobinhphuoc.com.vn
+qtv1 quang ninh hd
+https://live.baoquangninh.com.vn/qtvlive/tv1live.m3u8
+qtv3 quang ninh hd
+https://live.baoquangninh.com.vn/tvlive/tv3live.m3u8
+qnr1 quang ninh 240p
+https://live.baoquangninh.com.vn/qtvlive/qnr1.m3u8
+qnr2 quang ninh 240p
+https://live.baoquangninh.com.vn/qtvlive/qnr2.m3u8
+ntv nghe an hd
+https://live.baoquangninh.com.vn/natvlive/tv1live.m3u8
 
 truyenhinh.vnptvas.vn
 dtv dien bien 720x406
@@ -1391,13 +1445,6 @@ nbtv ninh binh 480p
 https://ott3.nethubtv.vn/live/ninhbinhtv/chunklist_1.m3u8
 nbtv ninh binh 360p
 https://ott3.nethubtv.vn/live/ninhbinhtv/chunklist_0.m3u8
-thvl5 720p
-https://ott4.nethubtv.vn/live/travinhtv/playlist.m3u8
-https://ott4.nethubtv.vn/live/travinhtv/chunklist_2.m3u8
-thvl5 480p
-https://ott4.nethubtv.vn/live/travinhtv/chunklist_1.m3u8
-thvl5 360p
-https://ott4.nethubtv.vn/live/travinhtv/chunklist_0.m3u8
 ktv khanh hoa 720p
 https://ott4.nethubtv.vn/live/khanhhoatv/playlist.m3u8
 https://ott4.nethubtv.vn/live/khanhhoatv/chunklist_2.m3u8
@@ -1778,13 +1825,6 @@ nbtv ninh binh 480p
 https://vtvgolive-ott3.vtvdigital.vn/live/ninhbinhtv/chunklist_1.m3u8
 nbtv ninh binh 360p
 https://vtvgolive-ott3.vtvdigital.vn/live/ninhbinhtv/chunklist_0.m3u8
-thvl5 720p
-https://vtvgolive-ott4.vtvdigital.vn/live/travinhtv/playlist.m3u8
-https://vtvgolive-ott4.vtvdigital.vn/live/travinhtv/chunklist_2.m3u8
-thvl5 480p
-https://vtvgolive-ott4.vtvdigital.vn/live/travinhtv/chunklist_1.m3u8
-thvl5 360p
-https://vtvgolive-ott4.vtvdigital.vn/live/travinhtv/chunklist_0.m3u8
 ktv khanh hoa 720p
 https://vtvgolive-ott4.vtvdigital.vn/live/khanhhoatv/playlist.m3u8
 https://vtvgolive-ott4.vtvdigital.vn/live/khanhhoatv/chunklist_2.m3u8
@@ -3398,6 +3438,20 @@ NHK WORLD 480p
 https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
 NHK WORLD 360p
 https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
+Arirang 720p
+https://liveh12.vtvprime.vn/hls/ARIRANG/index.m3u8
+https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8
+Arirang 480p
+https://liveh12.vtvprime.vn/hls/ARIRANG/02.m3u8
+Arirang 360p
+https://liveh12.vtvprime.vn/hls/ARIRANG/01.m3u8
+KBS WORLD 720p
+https://liveh12.vtvprime.vn/hls/KBS/index.m3u8
+https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
+KBS WORLD 480p
+https://liveh12.vtvprime.vn/hls/KBS/02.m3u8
+KBS WORLD 360p
+https://liveh12.vtvprime.vn/hls/KBS/01.m3u8
 
 other
 lo am nhac tiktok sd

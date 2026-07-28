@@ -386,10 +386,14 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10036
 https://freem3u.xyz/api/live/play.m3u8?vid=10038
 #EXTINF:-1 tvg-id="voh925" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOH 92,5 mhz
 https://freem3u.xyz/api/live/play.m3u8?vid=10040
+#EXTINF:-1 tvg-id="clvn" tvg-name="fm" tvg-logo="" group-title="FM Radio",Cải Lương Việt Nam
+https://stream.zeno.fm/0trm6wrnga0uv
 #EXTINF:-1 tvg-id="hanoi90" tvg-name="fm" tvg-logo="" group-title="FM Radio",FM90 Tin tức Giao Thông Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=9905
 #EXTINF:-1 tvg-id="hanoi96" tvg-name="fm" tvg-logo="" group-title="FM Radio",FM96 Thời Sự Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=9906
+#EXTINF:-1 tvg-id="binhduongradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Bình Dương
+http://sohoa.truyenthanhthongminh.vn/sohoabinhduong
 #EXTINF:-1 tvg-id="camauradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Cà Mau
 https://tv.ctvcamau.vn/live/radio/radio.m3u8
 #EXTINF:-1 tvg-id="canthoradio1" tvg-name="fm" tvg-logo="" group-title="FM Radio",Cần Thơ 97,3 mhz
@@ -406,8 +410,11 @@ http://stream.thingnet.vn/radio/dongnai_aac/chunklist.m3u8
 https://618b88f69e53b.streamlock.net/THDTR/thdtradio/chunklist_w1754694215.m3u8
 #EXTINF:-1 tvg-id="gialairadio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Gia Lai
 https://tv.gialaitv.vn/radio.m3u8
+#http://14.224.130.186:8000/binhdinh
 #EXTINF:-1 tvg-id="hatinhradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Hà Tĩnh
 https://live.baohatinh.vn/voht/voht.m3u8
+#EXTINF:-1 tvg-id="haiduong" tvg-name="fm" tvg-logo="" group-title="FM Radio",Hải Dương
+https://live.mediatech.vn/live/2858f932f24fa494996afb93ae0a7896ef9/chunklist.m3u8
 #EXTINF:-1 tvg-id="haiphongradio937" tvg-name="fm" tvg-logo="" group-title="FM Radio",Hải Phòng 93,7 mhz
 https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/chunklist.m3u8
 #EXTINF:-1 tvg-id="haiphongradio1022" tvg-name="fm" tvg-logo="" group-title="FM Radio",Hải Phòng 102,2 mhz
@@ -424,6 +431,8 @@ https://cdnbaokhanhhoa.com/live/fdb4128cecf1.m3u8?vhost=audio
 https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/chunklist.m3u8
 #EXTINF:-1 tvg-id="langsonradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Lạng Sơn
 https://live.mediatech.vn/live/285dabcfc94f52b458688fe7f601524816e/chunklist.m3u8
+#EXTINF:-1 tvg-id="laocairadio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Lào Cai
+http://sohoa.truyenthanhthongminh.vn/sohoatinhlaocai
 #EXTINF:-1 tvg-id="ngheanradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Nghệ An
 https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
 #EXTINF:-1 tvg-id="ninhbinhradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Ninh Bình
@@ -451,6 +460,8 @@ https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="" group-title="Quốc Tế",ALJAZEERA
 https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="AS" tvg-name="AS" tvg-logo="" group-title="Quốc Tế",Astrakhan Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-id="AK" tvg-name="AK" tvg-logo="" group-title="Quốc Tế",Arirang Korea
 https://freem3u.xyz/api/live/play.m3u8?vid=111
 #EXTINF:-1 tvg-id="BBCnews" tvg-name="BBC" tvg-logo="" group-title="Quốc Tế",BBC News
@@ -629,8 +640,6 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 https://a-cdn.klowdtv.com/live3/usatoday_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-name="vietnam today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png" group-title="Quốc Tế",VietNam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="VLTV" tvg-name="VLTV" tvg-logo="" group-title="Quốc Tế",Very Local TV
-https://stream-us-east-1.getpublica.com/cl/260712d99m3e8ncnlc73enorvg/subtitles_1_0_0_f.m3u8?i=1_14
 #EXTINF:-1 tvg-id="VOA" tvg-name="VOA" tvg-logo="" group-title="Quốc Tế",VOA
 https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist_0480.m3u8
 #EXTINF:-1 tvg-id="warner" tvg-name="warner" tvg-logo="" group-title="Quốc Tế",WB WarnerTV
