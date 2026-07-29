@@ -467,12 +467,16 @@ https://dethich.pw/thvlaudio/index.m3u8
 
 #EXTINF:-1 tvg-id="4FK" tvg-name="4FK" tvg-logo="" group-title="Quốc Tế",4 Fun Kids
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
+#EXTINF:-1 tvg-id="6WTV" tvg-name="6WTV" tvg-logo="" group-title="Quốc Tế",6 Wise TV
+https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 tvg-id="AB" tvg-name="AB" tvg-logo="" group-title="Quốc Tế",Afarin Baxcha
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AF" tvg-name="AF" tvg-logo="" group-title="Quốc Tế",Afarin TV
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AFN" tvg-name="AFN" tvg-logo="" group-title="Quốc Tế",AFN Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="AMGTV" tvg-name="AMGTV" tvg-logo="" group-title="Quốc Tế",AMGTV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-id="animalplanethindi" tvg-name="animalplanethindi" tvg-logo="" group-title="Quốc Tế",Animal Planet Hindi
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-id="AK" tvg-name="AK" tvg-logo="" group-title="Quốc Tế",Arirang Korea
@@ -483,6 +487,8 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AS" tvg-name="AS" tvg-logo="" group-title="Quốc Tế",Astrakhan Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-id="AF" tvg-name="AF" tvg-logo="" group-title="Quốc Tế",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AYTV" tvg-name="AYTV" tvg-logo="" group-title="Quốc Tế",Amou Yazid TV
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 #EXTINF:-1 tvg-id="BS" tvg-name="BS" tvg-logo="" group-title="Quốc Tế",Baby Shark TV
@@ -575,6 +581,8 @@ http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="dongnai2" tvg-name="ĐNNRTV2 Đồng Nai   " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/%C4%90NNRTV2.png/revision/latest/scale-to-width-down/1000?cb=20250902053524&path-prefix=vi" group-title="Quốc Tế",ĐNNRTV2 Đồng Nai   
 https://1.org.vn/dnrtv2-henxui
+#EXTINF:-1 tvg-id="DC" tvg-name="DC" tvg-logo="" group-title="Quốc Tế",Dove Channel
+https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DTV" tvg-name="DTV" tvg-logo="" group-title="Quốc Tế",DuckTV
 https://jmp2.uk/stvp-ESBC4700001GR
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="" group-title="Quốc Tế",DW
@@ -587,6 +595,8 @@ https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/chunklist.m3u8
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="ECTV" tvg-name="ECTV" tvg-logo="" group-title="Quốc Tế",El Chavo TV
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 tvg-id="ETV" tvg-name="ETV" tvg-logo="" group-title="Quốc Tế",EmanTV
+https://avr.host247.net/live/emantv/playlist.m3u8
 #EXTINF:-1 tvg-id="enisey-region" tvg-name="enisey-region" tvg-logo="" group-title="Quốc Tế",Enisey-Region
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" tvg-logo="" group-title="Quốc Tế",EWTN
@@ -597,6 +607,8 @@ https://fxtvhls.wns.live/hls/stream.m3u8
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="france24" tvg-name="france24" tvg-logo="" group-title="Quốc Tế",France24
 https://freem3u.xyz/api/live/play.m3u8?vid=96
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="" group-title="Quốc Tế",Green TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GG" tvg-name="GG" tvg-logo="" group-title="Quốc Tế",Gulli Girl
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HK" tvg-name="HK" tvg-logo="" group-title="Quốc Tế",Happy Kids
@@ -627,12 +639,16 @@ https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ktv" tvg-name="ktv" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c1/KTV_HD_logo_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20260104081252&path-prefix=vi" group-title="Quốc Tế",KTV
 https://hlive.ktv.go.kr/live/klive_h.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="mama" tvg-name="mama" tvg-logo="" group-title="Quốc Tế",Мама
+http://31.148.48.15/Mama/index.m3u8
 #EXTINF:-1 tvg-id="mbc" tvg-name="mbc" tvg-logo="" group-title="Quốc Tế",MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="Minimax" tvg-name="Minimax" tvg-logo="" group-title="Quốc Tế",Minimax
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-name="mir-24" tvg-logo="" group-title="Quốc Tế",MIR-24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="Mixkurdy" tvg-name="Mixkurdy" tvg-logo="" group-title="Quốc Tế",Mixkurdy
+https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
 #EXTINF:-1 tvg-id="MK" tvg-name="MK" tvg-logo="" group-title="Quốc Tế",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="mta6" tvg-name="mta6" tvg-logo="" group-title="Quốc Tế",MTA6 ASIA
@@ -697,6 +713,8 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="Salyam.ru" tvg-name="Salyam.ru" tvg-logo="" group-title="Quốc Tế",Salyam Russian
 http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1 tvg-id="STV" tvg-name="STV" tvg-logo="" group-title="Quốc Tế",Sevimli TV
+https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="shopping-live.ru" tvg-name="shopping-live.ru" tvg-logo="" group-title="Quốc Tế",Shopping live Rusian
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SKWAD" tvg-name="SKWAD" tvg-logo="" group-title="Quốc Tế",SKWAD
@@ -719,6 +737,8 @@ https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/chunklist.m3u8
 https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="THAIPBS" tvg-name="THAIPBS" tvg-logo="" group-title="Quốc Tế",Thai PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-id="TPC" tvg-name="TPC" tvg-logo="" group-title="Quốc Tế",The Pet Collective
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tiji" tvg-name="Tiji" tvg-logo="" group-title="Quốc Tế",Tiji
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="" group-title="Quốc Tế",The LEGO Channel
@@ -749,6 +769,10 @@ https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="" group-title="Quốc Tế",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="TVSF" tvg-name="TVSF" tvg-logo="" group-title="Quốc Tế",TVS Family Channel
+https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 tvg-id="TVHT" tvg-name="TVHT" tvg-logo="" group-title="Quốc Tế",TV Hi Tops
+https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8
 #EXTINF:-1 tvg-id="USATODAY" tvg-name="USATODAY" tvg-logo="" group-title="Quốc Tế",USA TODAY
 https://a-cdn.klowdtv.com/live3/usatoday_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-name="vietnam today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png" group-title="Quốc Tế",VietNam Today
@@ -761,12 +785,22 @@ https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="yuvelirochka" tvg-name="yuvelirochka" tvg-logo="" group-title="Quốc Tế",Yuvelirochka
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 tvg-id="zvezda" tvg-name="zvezda" tvg-logo="" group-title="Quốc Tế",zvezda
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-id="zc" tvg-name="zc" tvg-logo="" group-title="Quốc Tế",ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-id="zoomoo" tvg-name="zoomoo" tvg-logo="" group-title="Quốc Tế",ZooMoo
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="zvezda" tvg-name="zvezda" tvg-logo="" group-title="Quốc Tế",zvezda
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="russiachanneltb" tvg-name="qt" tvg-logo="" group-title="Quốc Tế",Звезда ТВ
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="russiachanneltb2" tvg-name="qt" tvg-logo="" group-title="Quốc Tế",Смайл ТВ
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-id="russiachannel1" tvg-name="qt" tvg-logo="" group-title="Quốc Tế",Мультиландия
+http://31.148.48.15/Multilandiya/index.m3u8
+#EXTINF:-1 tvg-id="russiachannel2" tvg-name="qt" tvg-logo="" group-title="Quốc Tế",Радость моя
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+#EXTINF:-1 tvg-id="russiachannel3" tvg-name="qt" tvg-logo="" group-title="Quốc Tế",Тамыр (Уфа)
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 
 notuse
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
