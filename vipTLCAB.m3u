@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="https://vnepg.site/epg.xml,http://lichphatsong.xyz/schedule/epg.xml,https://vnepg.site/epgu.xml" m3uautoload=1
+#EXTM3U tvg-url="https://vnepg.site/epg.xml,http://lichphatsong.xyz/schedule/epg.xml,https://vnepg.site/epgu.xml,http://trada.info/epg.xml,http://epg.51zmt.top:8000/e.xml,http://epg.it999.ru/epg.xml.gz,https://epg.pw/xmltv/epg_ID.xml" m3uautoload=1
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="vtv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/VTV1_logo_2013_final.svg" group-title="VTV",VTV1
 https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
@@ -401,9 +401,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9905
 #EXTINF:-1 tvg-id="hanoi96" tvg-name="fm" tvg-logo="" group-title="FM Radio",FM96 Thời Sự Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=9906
 #EXTINF:-1 tvg-id="binhduongradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Bình Dương
-https://sohoa.truyenthanhthongminh.vn/sohoabinhduong
+sohoa.truyenthanhthongminh.vn/sohoabinhduong
 #EXTINF:-1 tvg-id="binhdinhradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Bình Định
-https://14.224.130.186:8000/binhdinh
+14.224.130.186:8000/binhdinh
 #EXTINF:-1 tvg-id="camauradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Cà Mau
 https://tv.ctvcamau.vn/live/radio/radio.m3u8
 #EXTINF:-1 tvg-id="canthoradio1" tvg-name="fm" tvg-logo="" group-title="FM Radio",Cần Thơ 97,3 mhz
@@ -443,7 +443,7 @@ https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/chunklist.m3u8
 #EXTINF:-1 tvg-id="langsonradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Lạng Sơn
 https://live.mediatech.vn/live/285dabcfc94f52b458688fe7f601524816e/chunklist.m3u8
 #EXTINF:-1 tvg-id="laocairadio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Lào Cai
-https://sohoa.truyenthanhthongminh.vn/sohoatinhlaocai
+sohoa.truyenthanhthongminh.vn/sohoatinhlaocai
 #EXTINF:-1 tvg-id="ngheanradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Nghệ An
 https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
 #EXTINF:-1 tvg-id="ninhbinhradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Ninh Bình
