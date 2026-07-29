@@ -723,14 +723,26 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="" group-title="Quốc Tế",The LEGO Channel
 https://dltiqboxjw21d.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="TAJ" tvg-name="TAJ" tvg-logo="" group-title="Quốc Tế",Tom And Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="TG" tvg-name="TG" tvg-logo="" group-title="Quốc Tế",Toon Goggles
+https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="TGJ" tvg-name="TGJ" tvg-logo="" group-title="Quốc Tế",Toon Goggles Junior
+https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
 #EXTINF:-1 tvg-id="TRUEMUSICLIVE" tvg-name="TRUEMUSICLIVE" tvg-logo="" group-title="Quốc Tế",TRUEMUSIC LIVE
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/7f5c4019-53d1-3ece-aad4-eeab2919c146/1790800/manifest.m3u8
 #EXTINF:-1 tvg-id="TRAVELTV" tvg-name="TRAVELTV" tvg-logo="" group-title="Quốc Tế",TRAVELTV
 https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:-1 tvg-id="TRT1" tvg-name="TRT1" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/68/TRT_HD.png/revision/latest/scale-to-width-down/1000?cb=20250225033752&path-prefix=vi" group-title="Quốc Tế",TRT1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTC" tvg-name="TRTC" tvg-logo="" group-title="Quốc Tế",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTDC" tvg-name="TRTDC" tvg-logo="" group-title="Quốc Tế",TRT Diyanet Çocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV5" tvg-logo="" group-title="Quốc Tế",TV5 MONDE
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv5/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="TB" tvg-name="TB" tvg-logo="" group-title="Quốc Tế",TV Bahoriston
+https://live.teleradiocom.tj/3/3m.m3u8
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="" group-title="Quốc Tế",TVN
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSRU" tvg-name="TVBRICSRU" tvg-logo="" group-title="Quốc Tế",TVBRICS RUSSIAN
