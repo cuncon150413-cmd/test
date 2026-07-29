@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="vtv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/VTV1_logo_2013_final.svg" group-title="VTV",VTV1
 https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="vtv2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/VTV2_logo_2013_final.svg" group-title="VTV",VTV2
-https://live.fptplay53.net/live/media/v2abr/live247-hls-avc/v2abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://1011154949.vnns.net/CDN-FPT02/VTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="vtv3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png" group-title="VTV",VTV3
 https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="vtv4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1280px-VTV4_logo_2013_final.svg.png" group-title="VTV",VTV4
@@ -21,9 +21,9 @@ https://live.fptplay53.net/live/media/v7abr/live247-hls-avc/v7abr-avc1_5600000=1
 #EXTINF:-1 tvg-id="vtv8hd" tvg-name="vtv8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png" group-title="VTV",VTV8
 https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="vtv9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1280px-VTV9_logo_2013_final.svg.png" group-title="VTV",VTV9
-https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+https://dethich.pw/vtv9/index.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" tvg-name="vtv10" tvg-logo="https://static.wikia.nocookie.net/ab3dc0cb-29c0-45be-9013-5d258d22be78/scale-to-width/755" group-title="VTV",VTV10
-https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://dethich.pw/vtv10/index.m3u8
 
 #EXTINF:-1 tvg-id="antv" tvg-name="antv" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/741464-anninh.png" group-title="Thiết Yếu",ANTV An Ninh CAND
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
@@ -364,6 +364,8 @@ http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
 http://media.kythuatvov.vn:1936/live/VOV4_TN.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="vov5" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV5
 https://audio-lss.vov.vn/live/vov5.m3u8
+#EXTINF:-1 tvg-id="vov247" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV5 247
+http://media.kythuatvov.vn:1936/live/VOV24-7.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="vov6" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV6
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/.m3u8
 #EXTINF:-1 tvg-id="vovgtduyenhai" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV Giao Thông Duyên Hải
@@ -501,17 +503,35 @@ https://hitfm.hostingradio.ru/hitfm96.aacp
 http://radiovera.hostingradio.ru:8007/radiovera_128
 #EXTINF:-1 tvg-id="ru18" tvg-name="fmqt" tvg-logo="" group-title="FM Radio Quốc Tế",Russian Radio 18
 http://nashe3.hostingradio.ru/nashe-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="fmqt" tvg-logo="" group-title="FM Radio Quốc Tế",
-
+#EXTINF:-1 tvg-id="BBCWORLDAU" tvg-name="fmqt" tvg-logo="" group-title="FM Radio Quốc Tế",BBC World Service Australasia
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_australasia
 #EXTINF:-1 tvg-id="" tvg-name="fmqt" tvg-logo="" group-title="FM Radio Quốc Tế",
 
 
 #EXTINF:-1 tvg-id="1TV" tvg-name="1TV" tvg-logo="" group-title="Quốc Tế",1
 http://cdn4.skygo.mn/live/disk1/ORt/HLSv3-FTA/ORt.m3u8
+#EXTINF:-1 tvg-id="1TV" tvg-name="1TV" tvg-logo="" group-title="Quốc Tế",1 + 1 Internoal
+https://dash.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="1HDM" tvg-name="1HDM" tvg-logo="" group-title="Quốc Tế",1HD MUSIC TELEVISION
+https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1TVG" tvg-name="1TVG" tvg-logo="" group-title="Quốc Tế",1TV Gruzia
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
+#EXTINF:-1 tvg-id="360RU" tvg-name="360RU" tvg-logo="" group-title="Quốc Tế",360 RU
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="365" tvg-name="365" tvg-logo="" group-title="Quốc Tế",365
+https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="4FK" tvg-name="4FK" tvg-logo="" group-title="Quốc Tế",4 Fun Kids
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 tvg-id="6WTV" tvg-name="6WTV" tvg-logo="" group-title="Quốc Tế",6 Wise TV
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
+#EXTINF:-1 tvg-id="7TV" tvg-name="7TV" tvg-logo="" group-title="Quốc Tế",7TV
+http://v4.proofix.ru/7tv-live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ABTV" tvg-name="ABTV" tvg-logo="" group-title="Quốc Tế",AbaiTV
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCNEWS" tvg-name="ABCNEWS" tvg-logo="" group-title="Quốc Tế",ABC NEWS
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 tvg-id="ABPNEWS" tvg-name="ABPNEWS" tvg-logo="" group-title="Quốc Tế",ABP NEWS
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpnews-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="AB" tvg-name="AB" tvg-logo="" group-title="Quốc Tế",Afarin Baxcha
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AF" tvg-name="AF" tvg-logo="" group-title="Quốc Tế",Afarin TV
@@ -548,6 +568,8 @@ https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="BBCnews" tvg-name="BBC" tvg-logo="" group-title="Quốc Tế",BBC News
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BBCnewschannel" tvg-name="BBC" tvg-logo="" group-title="Quốc Tế",BBC News Channel
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 tvg-id="belarus24" tvg-name="belarus24" tvg-logo="" group-title="Quốc Tế",Belarus24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="bloomberg" tvg-name="bloomberg" tvg-logo="" group-title="Quốc Tế",Bloomberg
