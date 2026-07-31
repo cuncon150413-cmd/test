@@ -741,7 +741,7 @@ ystv (cali) 720p
 http://dvrfl05.bozztv.com/vch_vchannel3/index.m3u8
 on phim viet 720p
 http://dvrfl05.bozztv.com/vch_vchannel4/index.m3u8
-cali channel 1 unknown name 720p
+viet shopping tv 720p
 http://dvrfl05.bozztv.com/vch_vchannel5/index.m3u8
 on style tv (audio-aac) 
 http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8
@@ -749,7 +749,7 @@ testcard 720p
 http://dvrfl05.bozztv.com/vch_vchannel13/index.m3u8
 cali channel 2 unknown name 720p
 http://dvrfl05.bozztv.com/vch_vchannel15/index.m3u8
-vietnam channel 1 unknown name 720p
+viet shopping tv (cali) 720p
 http://dvrfl05.bozztv.com/vch_vchannel17/index.m3u8
 on vie dramas 720p
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
@@ -2277,6 +2277,10 @@ ktv khanh hoa 720p
 https://1011154949.vnns.net/CDN-FPT02/KHANHHOA-SD-720p/playlist.m3u8
 bhttv ha tinh 720p
 https://1011154949.vnns.net/CDN-FPT02/HATINH-SD-720p/playlist.m3u8
+qpvn 720p
+https://1011154949.vnns.net/CDN-FPT02/QPTV-SD-720p/playlist.m3u8
+antv hd
+https://1011154949.vnns.net/CDN-FPT02/ANTV-HD-1080p/playlist.m3u8
 
 vtcplay.vn
 vtv1 720p
@@ -3430,6 +3434,8 @@ fm90 hd
 https://freem3u.xyz/api/live/play.m3u8?vid=9905
 fm96 hd
 https://freem3u.xyz/api/live/play.m3u8?vid=9906
+btv6 binh thuan
+https://freem3u.xyz/api/live/play.m3u8?vid=9838
 voh 99,9mhz hd
 https://freem3u.xyz/api/live/play.m3u8?vid=10037
 voh 95,6mhz hd

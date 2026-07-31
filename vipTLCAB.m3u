@@ -17,7 +17,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="vtv6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/VTV6_logo_2026_final.svg" group-title="VTV",VTV6
 https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="vtv7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/VTV7_logo_2016_final.svg" group-title="VTV",VTV7
-https://live.fptplay53.net/live/media/v7abr/live247-hls-avc/v7abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+https://dethich.pw/vtv7/index.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" tvg-name="vtv8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png" group-title="VTV",VTV8
 https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="vtv9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1280px-VTV9_logo_2013_final.svg.png" group-title="VTV",VTV9
@@ -273,7 +273,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=54
 #EXTINF:-1 tvg-id="dongthap2" tvg-name="THĐT2 Đồng Tháp" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/Mi%E1%BB%81n_T%C3%A2y_TH%C4%90T2_logo_2019-nay.png/revision/latest?cb=20260222061035&path-prefix=vi" group-title="Địa Phương",THĐT2 Đồng Tháp
 https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="gialai" tvg-name="GTV Gia Lai" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/GTV_Gia_Lai.png/revision/latest?cb=20250729030224&path-prefix=vi" group-title="Địa Phương",GTV Gia Lai
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/gtvmass.mp4
+https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="tuyenquang" tvg-name="HGTV Hà Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/Logo_HGTV_H%C3%A0_Giang_%282018%2C_B%E1%BA%A3n_4-3%29.png/revision/latest/scale-to-width-down/1000?cb=20220916074407&path-prefix=vi" group-title="Địa Phương Cũ",HGTV Hà Giang
 https://vtvgolive-ott4.vtvdigital.vn/live/hagiangtv/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" tvg-name="THHN Hà Nam" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bc/THHN_logo_2017-2025.png/revision/latest/scale-to-width-down/640?cb=20201025105437&path-prefix=vi" group-title="Địa Phương Cũ",THHN Hà Nam
@@ -432,7 +432,7 @@ https://stream.thingnet.vn/radio/dongnai_aac/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongthapradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Đồng Tháp
 https://618b88f69e53b.streamlock.net/THDTR/thdtradio/chunklist_w1754694215.m3u8
 #EXTINF:-1 tvg-id="gialairadio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Gia Lai
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/gtvmass.mp4
+https://tv.gialaitv.vn/radio.m3u8
 #EXTINF:-1 tvg-id="hatinhradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Hà Tĩnh
 https://live.baohatinh.vn/voht/voht.m3u8
 #EXTINF:-1 tvg-id="ninhbinhradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Hà Nam
@@ -1227,9 +1227,3 @@ http://89.204.58.59:8000/ar_72_01
 http://rusradio.hostingradio.ru/rusradio128.mp3
 #EXTINF:-1 group-title="Quốc Tế",Kênh quốc tế chưa có tên (162)
 http://s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
-
-
-
-notuse
-https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
-https://tv.gialaitv.vn/radio.m3u8
