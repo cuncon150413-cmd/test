@@ -79,12 +79,40 @@ https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/S%E1%BB%A9cM%E1%BA%
 
 #EXTINF:-1 tvg-id="fptplay" tvg-name="fpt play channel 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="fptplay2" tvg-name="fpt play channel 2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Login
+#EXTINF:-1 tvg-id="fptplaylogin" tvg-name="fpt play channel 2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Login
 https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
-#EXTINF:-1 tvg-id="fptplaysk1" tvg-name="fpt play channel 3" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 1
+#EXTINF:-1 tvg-id="fptplaysk1" tvg-name="fpt play channel 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 1
+https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fptplaysk2" tvg-name="fpt play channel 2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 2
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fptplaysk3" tvg-name="fpt play channel 3" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 3
 https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 tvg-id="fptplaysk2" tvg-name="fpt play channel 4" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 2
+#EXTINF:-1 tvg-id="fptplaysk4" tvg-name="fpt play channel 4" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 4
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fptplaysk5" tvg-name="fpt play channel 5" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 5
+https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fptplaysk6" tvg-name="fpt play channel 6" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 6
+https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fptplaysk7" tvg-name="fpt play channel 7" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 7
+https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fptplaysk8" tvg-name="fpt play channel 8" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 8
+https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fptplaysk9" tvg-name="fpt play channel 9" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 9
+https://live.fptplay53.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fptplaysk10" tvg-name="fpt play channel 10" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 10
+https://live.fptplay53.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fptplaysk11" tvg-name="fpt play channel 11" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 11
+https://live.fptplay53.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fptplaysk12" tvg-name="fpt play channel 12" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 12
+https://live.fptplay53.net/live/media/su-kien-12/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fptplaysk13" tvg-name="fpt play channel 13" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 13
+https://live.fptplay53.net/live/media/su-kien-14/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fptplaysk14" tvg-name="fpt play channel 14" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 14
+https://live.fptplay53.net/live/media/su-kien-15/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fptplaysk15" tvg-name="fpt play channel 15" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 15
+https://live.fptplay53.net/live/media/su-kien-16/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fptplaysk16" tvg-name="fpt play channel 16" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 16
+https://live.fptplay53.net/live/media/su-kien-17/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 tvg-id="onviegiaitri" tvg-name="on vie giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/ON_Vie_Gi%E1%BA%A3i_tr%C3%AD.png/revision/latest?cb=20240817111510&path-prefix=vi" group-title="VTVCab",ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
