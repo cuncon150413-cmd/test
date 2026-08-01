@@ -675,6 +675,8 @@ https://cdn4.skygo.mn/live/disk1/SoutheastAsia/HLSv3-FTA/SoutheastAsia.m3u8
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 #EXTINF:-1 tvg-id="DXD" tvg-name="DXD" tvg-logo="" group-title="Quốc Tế",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="dongnai1" tvg-name="ĐNNRTV1 Đồng Nai   " tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/%C4%90NNRTV1.png/revision/latest/scale-to-width-down/1508?cb=20250902053416&path-prefix=vi" group-title="Quốc Tế",ĐNNRTV1 Đồng Nai   
+https://1.org.vn/dnrtv1-henxui
 #EXTINF:-1 tvg-id="dongnai2" tvg-name="ĐNNRTV2 Đồng Nai   " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/%C4%90NNRTV2.png/revision/latest/scale-to-width-down/1000?cb=20250902053524&path-prefix=vi" group-title="Quốc Tế",ĐNNRTV2 Đồng Nai   
 https://1.org.vn/dnrtv2-henxui
 #EXTINF:-1 tvg-id="DC" tvg-name="DC" tvg-logo="" group-title="Quốc Tế",Dove Channel

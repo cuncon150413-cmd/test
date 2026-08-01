@@ -1661,6 +1661,13 @@ can tho 3 480p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho3-480p.m3u8
 can tho 3 360p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho3-360p.m3u8
+stv son la 720p
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-720p.m3u8
+stv son la 480p
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-480p.m3u8
+stv son la 360p
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-360p.m3u8
 
 vtvgolive-ott3.vtvdigital.vn
 dnnrtv1 720p
@@ -2014,12 +2021,6 @@ can tho 1 360p
 https://cmcdp.vtvdigital.vn/live/haugiangtv/chunklist_0.m3u8
 
 vtvprime.vn
-htv4 720p
-https://liveh12byt.vtvprime.vn/hls/HTVKey/03.m3u8
-htv4 480p
-https://liveh12byt.vtvprime.vn/hls/HTVKey/02.m3u8
-htv4 360p
-https://liveh12byt.vtvprime.vn/hls/HTVKey/01.m3u8
 hanoitv1 720p
 https://liveh34.vtvprime.vn/hls/HANOI1TV/03.m3u8
 hanoitv1 480p
@@ -2116,12 +2117,6 @@ ltv2 lam dong 480p
 https://liveh34.vtvprime.vn/hls/LAMDONG/02.m3u8
 ltv2 lam dong 360p
 https://liveh34.vtvprime.vn/hls/LAMDONG/01.m3u8
-Asian Food Network 720p
-https://liveh12byt.vtvprime.vn/hls/AFC/03.m3u8
-Asian Food Network 480p
-https://liveh12byt.vtvprime.vn/hls/AFC/02.m3u8
-Asian Food Network 480p
-https://liveh12byt.vtvprime.vn/hls/AFC/01.m3u8
 atv1 an giang 720p
 https://liveh34.vtvprime.vn/hls/ANGIANGTV/03.m3u8
 atv1 an giang 480p
@@ -2177,27 +2172,15 @@ https://liveh12.vtvprime.vn/hls/ANNINHTV/02.m3u8
 NHK WORLD 720p
 https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
 NHK WORLD 480p
-https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
+https://liveh12.vtvprime.vn/hls/NHKWORLD/02.m3u8
 NHK WORLD 360p
-https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
-Arirang 720p
-https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8
-Arirang 480p
-https://liveh12.vtvprime.vn/hls/ARIRANG/02.m3u8
-Arirang 360p
-https://liveh12.vtvprime.vn/hls/ARIRANG/01.m3u8
-KBS WORLD 720p
-https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
-KBS WORLD 480p
-https://liveh12.vtvprime.vn/hls/KBS/02.m3u8
-KBS WORLD 360p
-https://liveh12.vtvprime.vn/hls/KBS/01.m3u8
-TV5 MONDE 720p
-https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
-TV5 MONDE 480p
-https://liveh12.vtvprime.vn/hls/TV5/02.m3u8
-TV5 MONDE 360p
-https://liveh12.vtvprime.vn/hls/TV5/01.m3u8
+https://liveh12.vtvprime.vn/hls/NHKWORLD/01.m3u8
+hgtv hau giang 720p
+https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8
+hgtv hau giang 480p
+https://liveh34.vtvprime.vn/hls/HGTV/02.m3u8
+hgtv hau giang 360p
+https://liveh34.vtvprime.vn/hls/HGTV/01.m3u8
 sctv2 720p
 https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
 sctv2 480p
