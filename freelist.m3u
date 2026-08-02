@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,vtv1 sd
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+https://cdnet-cdn-01.onsports.vn/onplus/VTV1_HD/manifest.mpd
 #EXTINF:-1,vtv2
 https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
 #EXTINF:-1,vtv3 hd
@@ -37,12 +37,14 @@ https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
 https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
 #EXTINF:-1,htv4
 https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,htv5
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
 #EXTINF:-1,htv7
 https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
 #EXTINF:-1,htv9
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+http://125hvt.ddns.net:21585/htv9/playlist.m3u8
 #EXTINF:-1,thvl1
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+http://125hvt.ddns.net:21585/thvl1/playlist.m3u8
 #EXTINF:-1,thvl2
 https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
 #EXTINF:-1,thvl3
@@ -75,10 +77,6 @@ https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho2-360p.m3u8
 https://1011154949.vnns.net/CDN-FPT02/SOCTRANG-SD-720p/playlist.m3u8
 #EXTINF:-1,btv bacninh
 https://vtvgolive-ott3.vtvdigital.vn/live/bacgiangtv/chunklist_0.m3u8
-#EXTINF:-1,brt ba ria vung tau
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
-#EXTINF:-1,btv1 binh duong
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
 #EXTINF:-1,gtv gia lai
 https://ott3.nethubtv.vn/live/binhdinhtv/chunklist_0.m3u8
 #EXTINF:-1,drt dak lak
@@ -102,7 +100,7 @@ https://vtvgolive-ott4.vtvdigital.vn/live/gialaitv/chunklist_0.m3u8
 #EXTINF:-1,dnnrtv2 dong nai
 https://vtvgolive-ott3.vtvdigital.vn/live/phuthotv/chunklist_0.m3u8
 #EXTINF:-1,dnnrtv3 dong nai
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+https://dethich.pw/dongnai3/index.m3u8
 #EXTINF:-1,dtv dien bien
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
 #EXTINF:-1,bhttv ha tinh
@@ -120,7 +118,7 @@ https://liveh34.vtvprime.vn/hls/DONGTHAPTV/01.m3u8
 #EXTINF:-1,mien tay thdt2 dong thap
 https://1011154949.vnns.net/CDN-FPT02/TIENGIANG-SD-720p/playlist.m3u8
 #EXTINF:-1,stv sonla
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-360p.m3u8
 #EXTINF:-1,ktv khanh hoa
 https://liveh12.vtvprime.vn/hls/KHANHHOATV/01.m3u8
 #EXTINF:-1,ktv1 khanh hoa
@@ -152,6 +150,6 @@ https://liveh34.vtvprime.vn/hls/QUANGNINH3/01.m3u8
 #EXTINF:-1,tn1 thai nguyen
 https://vtvgolive-ott3.vtvdigital.vn/live/thainguyentv/chunklist_0.m3u8
 #EXTINF:-1,ttv thanh hoa
-http://123.31.36.68/live.m3u8?c=vstv525&q=high&pkg=pkg12.hni
+https://liveh12.vtvprime.vn/hls/THANHHOATV/01.m3u8
 #EXTINF:-1,ttv tuyen quang
 https://vtvgolive-ott3.vtvdigital.vn/live/hagiangtv/chunklist_0.m3u8
