@@ -129,14 +129,16 @@ https://vtvgolive-ott4.vtvdigital.vn/live/laichautv/chunklist_0.m3u8
 https://liveh34.vtvprime.vn/hls/LANGSON/01.m3u8
 #EXTINF:-1,tn tay ninh
 https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+#EXTINF:-1,tn thai nguyen
+https://liveh34.vtvprime.vn/hls/THAINGUYENTV/01.m3u8
 #EXTINF:-1,thlc lao cai
 https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
 #EXTINF:-1,ntv nghe an
 https://liveh12.vtvprime.vn/hls/NGHEANTV/01.m3u8
 #EXTINF:-1,nbtv ninh bình
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+https://liveh34.vtvprime.vn/hls/NINHBINHTV/01.m3u8
 #EXTINF:-1,ptv phu tho
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
+https://liveh34.vtvprime.vn/hls/PHUTHOTV/01.m3u8
 #EXTINF:-1,qttv quang tri
 https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
 #EXTINF:-1,qngtv1 quang ngai
