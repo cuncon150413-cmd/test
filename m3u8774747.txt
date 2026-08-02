@@ -1610,6 +1610,10 @@ ttv thanh hoa 720p
 https://dethich.pw/thanhhoa/index.m3u8
 ttv tuyen quang 720p
 https://dethich.pw/tuyenquang/index.m3u8
+on vie giai tri hd
+https://dethich.pw/vtvcab1/index.m3u8
+on vie dramas hd
+https://dethich.pw/vtvcab19/index.m3u8
 
 kenhdp-vtvgo.vtvdigital.vn
 hanoitv1 720p
@@ -1742,6 +1746,13 @@ can tho 1 480p
 https://vtvgolive-ott3.vtvdigital.vn/live/haugiangtv/chunklist_1.m3u8
 can tho 1 360p
 https://vtvgolive-ott3.vtvdigital.vn/live/haugiangtv/chunklist_0.m3u8
+vtv5 720p
+https://vtvgolive-ott3.vtvdigital.vn/live/binhphuoctv/playlist.m3u8
+https://vtvgolive-ott3.vtvdigital.vn/live/binhphuoctv/chunklist_2.m3u8
+vtv5 480p
+https://vtvgolive-ott3.vtvdigital.vn/live/binhphuoctv/chunklist_1.m3u8
+vtv5 360p
+https://vtvgolive-ott3.vtvdigital.vn/live/binhphuoctv/chunklist_0.m3u8
 
 vtvgolive-ott4.vtvdigital.vn
 dnnrtv1 720p
@@ -1761,14 +1772,18 @@ https://vtvgolive-ott4.vtvdigital.vn/live/huetv/chunklist_0.m3u8
 dtv dien bien 720p
 https://vtvgolive-ott4.vtvdigital.vn/live/dbientv/playlist.m3u8
 https://vtvgolive-ott4.vtvdigital.vn/live/dienbientv/playlist.m3u8
+https://vtvgolive-ott4.vtvdigital.vn/live/binhduongtv/playlist.m3u8
 https://vtvgolive-ott4.vtvdigital.vn/live/dbientv/chunklist_2.m3u8
 https://vtvgolive-ott4.vtvdigital.vn/live/dienbientv/chunklist_2.m3u8
+https://vtvgolive-ott4.vtvdigital.vn/live/binhduongtv/chunklist_2.m3u8
 dtv dien bien 480p
 https://vtvgolive-ott4.vtvdigital.vn/live/dbientv/chunklist_1.m3u8
 https://vtvgolive-ott4.vtvdigital.vn/live/dienbientv/chunklist_1.m3u8
+https://vtvgolive-ott4.vtvdigital.vn/live/binhduongtv/chunklist_1.m3u8
 dtv dien bien 360p
 https://vtvgolive-ott4.vtvdigital.vn/live/dbientv/chunklist_0.m3u8
 https://vtvgolive-ott4.vtvdigital.vn/live/dienbientv/chunklist_0.m3u8
+https://vtvgolive-ott4.vtvdigital.vn/live/binhduongtv/chunklist_0.m3u8
 hgtv ha giang 720p
 https://vtvgolive-ott4.vtvdigital.vn/live/hagiangtv/playlist.m3u8
 https://vtvgolive-ott4.vtvdigital.vn/live/hagiangtv/chunklist_2.m3u8
@@ -1802,12 +1817,12 @@ crtv cao bang 480p
 https://vtvgolive-ott4.vtvdigital.vn/live/caobangtv/chunklist_1.m3u8
 crtv cao bang 360p
 https://vtvgolive-ott4.vtvdigital.vn/live/caobangtv/chunklist_0.m3u8
-vietnam today
+vietnam today 720p
 https://vtvgolive-ott4.vtvdigital.vn/live/hanamtv/playlist.m3u8
 https://vtvgolive-ott4.vtvdigital.vn/live/hanamtv/chunklist_2.m3u8
-vietnam today
+vietnam today 480p
 https://vtvgolive-ott4.vtvdigital.vn/live/hanamtv/chunklist_1.m3u8
-vietnam today
+vietnam today 360p
 https://vtvgolive-ott4.vtvdigital.vn/live/hanamtv/chunklist_0.m3u8
 
 ott3.nethubtv.vn
@@ -1884,6 +1899,13 @@ can tho 1 480p
 https://ott3.nethubtv.vn/live/haugiangtv/chunklist_1.m3u8
 can tho 1 360p
 https://ott3.nethubtv.vn/live/haugiangtv/chunklist_0.m3u8
+vtv5 720p
+https://ott3.nethubtv.vn/live/binhphuoctv/playlist.m3u8
+https://ott3.nethubtv.vn/live/binhphuoctv/chunklist_2.m3u8
+vtv5 480p
+https://ott3.nethubtv.vn/live/binhphuoctv/chunklist_1.m3u8
+vtv5 360p
+https://ott3.nethubtv.vn/live/binhphuoctv/chunklist_0.m3u8
 
 ott4.nethubtv.vn
 dnnrtv1 720p
@@ -1903,14 +1925,18 @@ https://ott4.nethubtv.vn/live/huetv/chunklist_0.m3u8
 dtv dien bien 720p
 https://ott4.nethubtv.vn/live/dbientv/playlist.m3u8
 https://ott4.nethubtv.vn/live/dienbientv/playlist.m3u8
+https://ott4.nethubtv.vn/live/binhduongtv/playlist.m3u8
 https://ott4.nethubtv.vn/live/dbientv/chunklist_2.m3u8
 https://ott4.nethubtv.vn/live/dienbientv/chunklist_2.m3u8
+https://ott4.nethubtv.vn/live/binhduongtv/chunklist_2.m3u8
 dtv dien bien 480p
 https://ott4.nethubtv.vn/live/dbientv/chunklist_1.m3u8
 https://ott4.nethubtv.vn/live/dienbientv/chunklist_1.m3u8
+https://ott4.nethubtv.vn/live/binhduongtv/chunklist_1.m3u8
 dtv dien bien 360p
 https://ott4.nethubtv.vn/live/dbientv/chunklist_0.m3u8
 https://ott4.nethubtv.vn/live/dienbientv/chunklist_0.m3u8
+https://ott4.nethubtv.vn/live/binhduongtv/chunklist_0.m3u8
 hgtv ha giang 720p
 https://ott4.nethubtv.vn/live/hagiangtv/playlist.m3u8
 https://ott4.nethubtv.vn/live/hagiangtv/chunklist_2.m3u8
@@ -1937,12 +1963,12 @@ https://ott4.nethubtv.vn/live/caobangtv/playlist.m3u8
 https://ott4.nethubtv.vn/live/caobangtv/chunklist_1.m3u8
 crtv cao bang 360p
 https://ott4.nethubtv.vn/live/caobangtv/chunklist_0.m3u8
-vietnam today
+vietnam today 720p
 https://ott4.nethubtv.vn/live/hanamtv/playlist.m3u8
 https://ott4.nethubtv.vn/live/hanamtv/chunklist_2.m3u8
-vietnam today
+vietnam today 480p
 https://ott4.nethubtv.vn/live/hanamtv/chunklist_1.m3u8
-vietnam today
+vietnam today 360p
 https://ott4.nethubtv.vn/live/hanamtv/chunklist_0.m3u8
 
 cmcdp.vtvdigital.vn
@@ -2019,6 +2045,13 @@ can tho 1 480p
 https://cmcdp.vtvdigital.vn/live/haugiangtv/chunklist_1.m3u8
 can tho 1 360p
 https://cmcdp.vtvdigital.vn/live/haugiangtv/chunklist_0.m3u8
+vtv5 720p
+https://cmcdp.vtvdigital.vn/live/binhphuoctv/playlist.m3u8
+https://cmcdp.vtvdigital.vn/live/binhphuoctv/chunklist_2.m3u8
+vtv5 480p
+https://cmcdp.vtvdigital.vn/live/binhphuoctv/chunklist_1.m3u8
+vtv5 360p
+https://cmcdp.vtvdigital.vn/live/binhphuoctv/chunklist_0.m3u8
 
 vtvprime.vn
 hanoitv1 720p
@@ -2317,8 +2350,8 @@ ctv ca mau hd
 https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8
 dnnrtv1 dong nai hd
 https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist.m3u8
-https://live.fptplay53.net/epzsd1/dongnai3_hls.smil/chunklist.m3u8
 dnnrtv2 dong nai hd
+https://live.fptplay53.net/epzsd1/dongnai3_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist.m3u8
 thdt1 dong thap hd
 https://live.fptplay53.net/epzsd1/dongthap_hls.smil/chunklist.m3u8
@@ -2357,6 +2390,7 @@ https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 
 qpvn.vn
 qpvn hd
+https://qpvn.vn/live/qpvn/master.m3u8
 https://qpvn.vn/live/qpvn/1080p.m3u8
 qpvn 720p
 https://qpvn.vn/live/qpvn/720p.m3u8
