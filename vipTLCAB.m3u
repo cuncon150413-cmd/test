@@ -115,6 +115,30 @@ https://live.fptplay53.net/live/media/su-kien-15/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-16/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-id="fptplaysk17" tvg-name="fpt play channel 17" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 17
 https://live.fptplay53.net/live/media/su-kien-17/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fptplaysk18" tvg-name="fpt play channel 18" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 18
+https://event-a.fptplay53.net/live/media/event-01/hls_avc_v6/event-01-avc1_5600000=10000.m3u8
+#EXTINF:-1 tvg-id="fptplaysk19" tvg-name="fpt play channel 19" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 19
+https://event-a.fptplay53.net/live/media/event-02/hls_avc_v6/event-02-avc1_5600000=10000.m3u8
+#EXTINF:-1 tvg-id="fptplaysk20" tvg-name="fpt play channel 20" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 20
+https://event-a.fptplay53.net/live/media/event-03/hls_avc_v6/event-03-avc1_5600000=10000.m3u8
+#EXTINF:-1 tvg-id="fptplaysk21" tvg-name="fpt play channel 21" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 21
+https://event-a.fptplay53.net/live/media/event-04/hls_avc_v6/event-04-avc1_5600000=10000.m3u8
+#EXTINF:-1 tvg-id="fptplaysk22" tvg-name="fpt play channel 22" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 22
+https://event-a.fptplay53.net/live/media/event-05/hls_avc_v6/event-05-avc1_5600000=10000.m3u8
+#EXTINF:-1 tvg-id="fptplaysk23" tvg-name="fpt play channel 23" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 23
+https://event-a.fptplay53.net/live/media/event-06/hls_avc_v6/event-06-avc1_5600000=10000.m3u8
+#EXTINF:-1 tvg-id="fptplaysk24" tvg-name="fpt play channel 24" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 24
+https://event-a.fptplay53.net/live/media/event-07/hls_avc_v6/event-07-avc1_5600000=10000.m3u8
+#EXTINF:-1 tvg-id="fptplaysk25" tvg-name="fpt play channel 25" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 25
+https://event-a.fptplay53.net/live/media/event-08/hls_avc_v6/event-08-avc1_5600000=10000.m3u8
+#EXTINF:-1 tvg-id="fptplaysk26" tvg-name="fpt play channel 26" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 26
+https://event-a.fptplay53.net/live/media/event-09/hls_avc_v6/event-09-avc1_5600000=10000.m3u8
+#EXTINF:-1 tvg-id="fptplaysk27" tvg-name="fpt play channel 27" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 27
+https://event-a.fptplay53.net/live/media/event-10/hls_avc_v6/event-10-avc1_5600000=10000.m3u8
+#EXTINF:-1 tvg-id="fptplaysk28" tvg-name="fpt play channel 28" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 28
+https://event-a.fptplay53.net/live/media/event-11/hls_avc_v6/event-11-avc1_5600000=10000.m3u8
+#EXTINF:-1 tvg-id="fptplaysk29" tvg-name="fpt play channel 29" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 29
+https://event-a.fptplay53.net/live/media/event-12/hls_avc_v6/event-12-avc1_5600000=10000.m3u8
 #EXTINF:-1 tvg-id="fptplaysk4k1" tvg-name="fpt play channel 17" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 4K 1
 https://vips-livecdn.fptplay.net/live/media/event-01-4k/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-id="fptplaysk4k2" tvg-name="fpt play channel 18" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 4K 2
@@ -222,6 +246,8 @@ https://1.org.vn/cantho3-henxui/
 https://1.org.vn/dnrtv1-henxui
 #EXTINF:-1 tvg-id="dongnai2" tvg-name="ĐNNRTV2 Đồng Nai " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/%C4%90NNRTV2.png/revision/latest/scale-to-width-down/1000?cb=20250902053524&path-prefix=vi" group-title="Thử Nghiệm",ĐNNRTV2 Đồng Nai 
 https://1.org.vn/dnrtv2-henxui
+#EXTINF:-1 tvg-id="lamdong1" tvg-name="LTV1 Lâm Đồng " tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/LTV1_Lam_Dong_logo.png/revision/latest/scale-to-width-down/800?cb=20260213000053&path-prefix=vi" group-title="Thử Nghiệm",LTV1 Lâm Đồng 
+https://1.org.vn/ltv1-henxui
 #EXTINF:-1 tvg-id="ninhbinhradio" tvg-name="fm" tvg-logo="" group-title="Thử Nghiệm",Ninh Bình 
 https://1.org.vn/285391a08f01f83458793b293c5e9517265-henxui
 #EXTINF:-1 tvg-id="ninhbinhradio" tvg-name="fm" tvg-logo="" group-title="Thử Nghiệm",Ninh Bình  
