@@ -222,8 +222,8 @@ https://1.org.vn/cantho3-henxui/
 https://1.org.vn/dnrtv1-henxui
 #EXTINF:-1 tvg-id="dongnai2" tvg-name="ĐNNRTV2 Đồng Nai " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/%C4%90NNRTV2.png/revision/latest/scale-to-width-down/1000?cb=20250902053524&path-prefix=vi" group-title="Thử Nghiệm",ĐNNRTV2 Đồng Nai 
 https://1.org.vn/dnrtv2-henxui
-#EXTINF:-1 tvg-id="ninhbinhradio " tvg-name="fm" tvg-logo="" group-title="FM Radio",Ninh Bình 
-https://1.org.vn/285391a08f01f83458793b293c5e9517265-henxui
+#EXTINF:-1 tvg-id="ninhbinhradio " tvg-name="fm" tvg-logo="" group-title="Thử Nghiệm",Ninh Bình
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/C%E1%BA%A3m%20%C6%A0n%20Ng%C6%B0%E1%BB%9Di%20%C4%90%C3%A3%20Th%E1%BB%A9c%20C%C3%B9ng%20T%C3%B4i%20(Original%20Soundtrack)%20(2).mp3
 
 #EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/HTV1_30-12-2024.png/revision/latest/scale-to-width-down/1000?cb=20260414043039&path-prefix=vi" group-title="HTV",HTV1
 https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8
