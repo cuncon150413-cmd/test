@@ -1800,6 +1800,13 @@ sctv20 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/playlist_480p.m3u8
 sctv20 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/playlist_360p.m3u8
+sctv phim tong hop 720p
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctvpth/master.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctvpth/playlist_720p.m3u8
+sctv phim tong hop 720p
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctvpth/playlist_480p.m3u8
+sctv phim tong hop 720p
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctvpth/playlist_360p.m3u8
 
 vtvgolive-ssaimh.vtvdigital.vn
 vtv1 720p
@@ -1984,6 +1991,13 @@ sctv20 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv20/playlist_480p.m3u8
 sctv20 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv20/playlist_360p.m3u8
+sctv phim tong hop 720p
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctvpth/master.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctvpth/playlist_720p.m3u8
+sctv phim tong hop 720p
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctvpth/playlist_480p.m3u8
+sctv phim tong hop 720p
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctvpth/playlist_360p.m3u8
 
 kenhdp-vtvgo.vtvdigital.vn
 hanoitv1 720p
@@ -2913,211 +2927,255 @@ https://luuchieu.truyenhinhso.vn/media/live/243410071B24D57B0C280184/index.m3u8
 
 vpsttt.vietanhtv.top
 vtv1 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2
+https://vmttv.dpdns.org/tv360/?id=2
 vtv2 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=3
+https://vmttv.dpdns.org/tv360/?id=3
 vtv3 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=4
+https://vmttv.dpdns.org/tv360/?id=4
 vtv7 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=6
+https://vmttv.dpdns.org/tv360/?id=6
 vtv9 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
+https://vmttv.dpdns.org/tv360/?id=8
 htv4 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9
+https://vmttv.dpdns.org/tv360/?id=9
 htvc gia dinh hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=11
+https://vmttv.dpdns.org/tv360/?id=11
 htvc phu nu hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=12
+https://vmttv.dpdns.org/tv360/?id=12
 htvc thuan viet hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=13
+https://vmttv.dpdns.org/tv360/?id=13
 htvc ca nhac hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=14
+https://vmttv.dpdns.org/tv360/?id=14
 htvc phim hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=15
+https://vmttv.dpdns.org/tv360/?id=15
 qpvn hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=19
+https://vmttv.dpdns.org/tv360/?id=19
 antv hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=20
+https://vmttv.dpdns.org/tv360/?id=20
 thvl1 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=25
+https://vmttv.dpdns.org/tv360/?id=25
 thvl2 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=26
+https://vmttv.dpdns.org/tv360/?id=26
 youtv hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=31
+https://vmttv.dpdns.org/tv360/?id=31
 hitv hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=32
+https://vmttv.dpdns.org/tv360/?id=32
 hn1 hanoi hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=33
+https://vmttv.dpdns.org/tv360/?id=33
 hn2 hanoi hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=34
+https://vmttv.dpdns.org/tv360/?id=34
 atv2 angiang hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=35
+https://vmttv.dpdns.org/tv360/?id=35
 btv bacninh hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=39
+https://vmttv.dpdns.org/tv360/?id=39
 ltv2 lamdong hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=45
+https://vmttv.dpdns.org/tv360/?id=45
 ctv camau hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=46
+https://vmttv.dpdns.org/tv360/?id=46
 can tho 1 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=47
+https://vmttv.dpdns.org/tv360/?id=47
 crtv cao bang hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=48
+https://vmttv.dpdns.org/tv360/?id=48
 dnrt1 da nang hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=49
+https://vmttv.dpdns.org/tv360/?id=49
 drt dak lak hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=51
+https://vmttv.dpdns.org/tv360/?id=51
 dtv dien bien hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=52
+https://vmttv.dpdns.org/tv360/?id=52
 dnrtv1 dong nai hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=53
+https://vmttv.dpdns.org/tv360/?id=53
 thdt1 dong thap hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=54
+https://vmttv.dpdns.org/tv360/?id=54
 gtv gia lai hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=55
+https://vmttv.dpdns.org/tv360/?id=55
 bhttv ha tinh hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=58
+https://vmttv.dpdns.org/tv360/?id=58
 thp3 hai phong hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=59
+https://vmttv.dpdns.org/tv360/?id=59
 thp hai phong hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=60
+https://vmttv.dpdns.org/tv360/?id=60
 can tho 2 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=61
+https://vmttv.dpdns.org/tv360/?id=61
 huetv hue hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=63
+https://vmttv.dpdns.org/tv360/?id=63
 hytv hung yen hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=64
+https://vmttv.dpdns.org/tv360/?id=64
 ktv khanh hoa hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=65
+https://vmttv.dpdns.org/tv360/?id=65
 atv1 an giang hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=66
+https://vmttv.dpdns.org/tv360/?id=66
 ltv lai chau hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=68
+https://vmttv.dpdns.org/tv360/?id=68
 ltv1 lam dong hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=69
+https://vmttv.dpdns.org/tv360/?id=69
 lstv lang son hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=70
+https://vmttv.dpdns.org/tv360/?id=70
 thlc lao cai hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=71
+https://vmttv.dpdns.org/tv360/?id=71
 tn tay ninh hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=72
+https://vmttv.dpdns.org/tv360/?id=72
 ntv nghe an hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=74
+https://vmttv.dpdns.org/tv360/?id=74
 nbtv ninh binh hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=75
+https://vmttv.dpdns.org/tv360/?id=75
 ktv1 khanh hoa hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=76
+https://vmttv.dpdns.org/tv360/?id=76
 ptv phu tho hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=77
+https://vmttv.dpdns.org/tv360/?id=77
 qrt quang nam hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=80
+https://vmttv.dpdns.org/tv360/?id=80
 qngtv1 quang ngai hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=81
+https://vmttv.dpdns.org/tv360/?id=81
 qtv1 quang ninh hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=82
+https://vmttv.dpdns.org/tv360/?id=82
 qttv quang tri hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=83
+https://vmttv.dpdns.org/tv360/?id=83
 can tho 3 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=84
+https://vmttv.dpdns.org/tv360/?id=84
 tn1 thai nguyen hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=88
+https://vmttv.dpdns.org/tv360/?id=88
 ttv thanh hoa hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=89
+https://vmttv.dpdns.org/tv360/?id=89
 thtg tien giang hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=90
+https://vmttv.dpdns.org/tv360/?id=90
 thvl5 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=91
+https://vmttv.dpdns.org/tv360/?id=91
 ttv tuyen quang hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=92
+https://vmttv.dpdns.org/tv360/?id=92
 france24 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=96
+https://vmttv.dpdns.org/tv360/?id=96
 vtv10 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=98
+https://vmttv.dpdns.org/tv360/?id=98
 hgtv hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=99
+https://vmttv.dpdns.org/tv360/?id=99
 nhkworld hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=106
+https://vmttv.dpdns.org/tv360/?id=106
 vtv4 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=108
+https://vmttv.dpdns.org/tv360/?id=108
 dw deutsche welle hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=109
+https://vmttv.dpdns.org/tv360/?id=109
 vtv5 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=110
+https://vmttv.dpdns.org/tv360/?id=110
 arirang korea hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=111
+https://vmttv.dpdns.org/tv360/?id=111
 cna channel newsasia hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=112
+https://vmttv.dpdns.org/tv360/?id=112
 vtv8 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=115
+https://vmttv.dpdns.org/tv360/?id=115
 htvc plus hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=132
+https://vmttv.dpdns.org/tv360/?id=132
 htv du lich va cuoc song hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=133
+https://vmttv.dpdns.org/tv360/?id=133
 qtv3 quang ninh hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=134
+https://vmttv.dpdns.org/tv360/?id=134
 on o2 tv hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
+https://vmttv.dpdns.org/tv360/?id=136
 htv5 bchannel hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=151
+https://vmttv.dpdns.org/tv360/?id=151
 vtv5 tay nam bo
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=157
+https://vmttv.dpdns.org/tv360/?id=157
 on cine hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176
+https://vmttv.dpdns.org/tv360/?id=176
 on vie dramas hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=177
+https://vmttv.dpdns.org/tv360/?id=177
 vtvcab 8 on bibi tv hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=178
+https://vmttv.dpdns.org/tv360/?id=178
 on kids hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
+https://vmttv.dpdns.org/tv360/?id=179
 on vie giai tri hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
+https://vmttv.dpdns.org/tv360/?id=180
 on movies hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
+https://vmttv.dpdns.org/tv360/?id=181
 on echannel hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
+https://vmttv.dpdns.org/tv360/?id=182
 on style hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=184
+https://vmttv.dpdns.org/tv360/?id=184
 on music hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
+https://vmttv.dpdns.org/tv360/?id=185
 on trending hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
+https://vmttv.dpdns.org/tv360/?id=186
 on family hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
+https://vmttv.dpdns.org/tv360/?id=187
 on life hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
+https://vmttv.dpdns.org/tv360/?id=188
 on info hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=189
+https://vmttv.dpdns.org/tv360/?id=189
 htv1 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=190
+https://vmttv.dpdns.org/tv360/?id=190
 htv2 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=191
+https://vmttv.dpdns.org/tv360/?id=191
 htv3 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=192
+https://vmttv.dpdns.org/tv360/?id=192
 htv7 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=193
+https://vmttv.dpdns.org/tv360/?id=193
 htv9 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=194
+https://vmttv.dpdns.org/tv360/?id=194
 sctv2 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=201
+https://vmttv.dpdns.org/tv360/?id=201
 vtv5 tay nguyen hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=207
+https://vmttv.dpdns.org/tv360/?id=207
 kbs world korea hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=213
+https://vmttv.dpdns.org/tv360/?id=213
 afn asian food network hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=215
+https://vmttv.dpdns.org/tv360/?id=215
 outdoor hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=216
+https://vmttv.dpdns.org/tv360/?id=216
 thvl3 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=219
+https://vmttv.dpdns.org/tv360/?id=219
 thvl4 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=220
+https://vmttv.dpdns.org/tv360/?id=220
 sctv6 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=232
+https://vmttv.dpdns.org/tv360/?id=232
 dnnrtv2 dong nai hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=255
+https://vmttv.dpdns.org/tv360/?id=255
 vietnam today hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9951
+https://vmttv.dpdns.org/tv360/?id=9951
 vtv6 hd
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10043
+https://vmttv.dpdns.org/tv360/?id=10043
+btv6 binh thuan 576p
+https://vmttv.dpdns.org/tv360/?id=9838
+sctv1 hd
+https://vmttv.dpdns.org/VTVGo/?sctv1
+sctv2 720p
+https://vmttv.dpdns.org/VTVGo/?sctv2
+sctv3 720p
+https://vmttv.dpdns.org/VTVGo/?sctv3
+sctv4 720p
+https://vmttv.dpdns.org/VTVGo/?sctv4
+sctv5 hd
+https://vmttv.dpdns.org/VTVGo/?sctv5
+sctv6 720p
+https://vmttv.dpdns.org/VTVGo/?sctv6
+sctv7 720p
+https://vmttv.dpdns.org/VTVGo/?sctv7
+sctv8 hd
+https://vmttv.dpdns.org/VTVGo/?sctv8
+sctv9 720p
+https://vmttv.dpdns.org/VTVGo/?sctv9
+sctv10 hd
+https://vmttv.dpdns.org/VTVGo/?sctv10
+sctv11 hd
+https://vmttv.dpdns.org/VTVGo/?sctv11
+sctv12 720p
+https://vmttv.dpdns.org/VTVGo/?sctv12
+sctv13 720p
+https://vmttv.dpdns.org/VTVGo/?sctv13
+sctv14 hd
+https://vmttv.dpdns.org/VTVGo/?sctv14
+sctv16 720p
+https://vmttv.dpdns.org/VTVGo/?sctv16
+sctv18 720p
+https://vmttv.dpdns.org/VTVGo/?sctv18
+sctv19 hd
+https://vmttv.dpdns.org/VTVGo/?sctv19
+sctv20 720p
+https://vmttv.dpdns.org/VTVGo/?sctv20
+sctv21 hd
+https://vmttv.dpdns.org/VTVGo/?sctv21
+sctv phim hd
+https://vmttv.dpdns.org/VTVGo/?sctvphim
+
+vpsttt.vietanhtv.top
 vtv1 hd
 https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vtv1-hd
 vtv5 hd
