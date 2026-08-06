@@ -790,6 +790,10 @@ qtv1 quang ninh hd
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 qtv3 quang ninh 720p
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
+qnr1 quang ninh 240p
+http://live.baoquangninh.vn/qtvlive/qnr1.m3u8
+qnr2 quang ninh 240p
+http://live.baoquangninh.vn/qtvlive/qnr2.m3u8
 ntv nghe an hd
 http://live.baoquangninh.vn/natvlive/tv1live.m3u8
 
@@ -2606,6 +2610,12 @@ sctv2 480p
 https://liveh12.vtvprime.vn/hls/SCTV2/02.m3u8
 sctv2 360p
 https://liveh12.vtvprime.vn/hls/SCTV2/01.m3u8
+sctv5 720p
+https://liveh12.vtvprime.vn/hls/SCTV5/01.m3u8
+sctv5 480p
+https://liveh12.vtvprime.vn/hls/SCTV5/02.m3u8
+sctv5 360p
+https://liveh12.vtvprime.vn/hls/SCTV5/03.m3u8
 on football hd
 https://liveh12vng.vtvprime.vn/hls/ONSPORT1/04.m3u8
 on football 720p
