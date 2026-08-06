@@ -70,12 +70,6 @@ https://vmttv.dpdns.org/tv360/?id=tv360-13
 https://vmttv.dpdns.org/tv360/?id=tv360-14
 #EXTINF:-1 tvg-id="tv360plus15" tvg-name="tv360 15" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/01/1778783528367/ddfa21d56253_480_270.png" group-title="TV360",TV360+15
 https://vmttv.dpdns.org/tv360/?id=tv360-15
-#EXTINF:-1 tvg-id="tv360plus16" tvg-name="tv360 16" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/07/07/17/178341886042/8212b6f0ea56_480_270.png" group-title="TV360",TV360+16
-https://cdn.jsdelivr.net/gh/cuncon150413-cmd/test@main/Mr%20Beast%20Stole%20The%20Precious%20Windows%20XP%20Crazy%20Error!%20-%20(480p).mp4
-#EXTINF:-1 tvg-id="tv360plus17" tvg-name="tv360 17" tvg-logo="https://images.genius.com/20d8156ea21ba5f31dcc09769e279117.1000x1000x1.png" group-title="TV360",TV360+17
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/PHD%20-%20%C4%90%E1%BB%ABng%20%C4%90%C3%B3ng%20Vai%20Anh(Audio)%20(Official%20Audio)%20-%20PHD%20MUSIC%20(480p,%20h264,%20youtube).mp4
-#EXTINF:-1 tvg-id="tv360plus18" tvg-name="tv360 18" tvg-logo="https://i.ytimg.com/vi/DfZMqs28dYg/hq720.jpg" group-title="TV360",TV360+18
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/S%E1%BB%A9cM%E1%BA%A1nhPHD%20-%20%C4%90%E1%BB%AANG%20C%C3%83I%20ANH%20C%C3%94N(Audio)%20(official%20Audio)%20-%20S%E1%BB%A9c%20M%E1%BA%A1nh%20PHD%20(720p,%20h264,%20youtube).mp4
 
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 1
 https://liveh12vng.vtvprime.vn/hls/ONSPORT1/04.m3u8
@@ -268,19 +262,6 @@ https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/baotrikenhtruyenhin
 https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
 #EXTINF:-1 tvg-id="sctvhdpth" tvg-name="SCTV PHIM" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/41/SCTV_Phim_T%E1%BB%95ng_h%E1%BB%A3p_logo_19-01-2023.png/revision/latest?cb=20230323081029&path-prefix=vi" group-title="SCTV",SCTV PHIM
 https://vmttv.dpdns.org/VTVGo/?sctvphim
-
-#EXTINF:-1 tvg-id="cantho3" tvg-name="Cần Thơ 3 " tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/C%E1%BA%A7nTh%C6%A13.png/revision/latest/scale-to-width-down/1000?cb=20250912112412&path-prefix=vi" group-title="Thử Nghiệm",Cần Thơ 3 
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
-#EXTINF:-1 tvg-id="dongnai1" tvg-name="ĐNNRTV1 Đồng Nai " tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/%C4%90NNRTV1.png/revision/latest/scale-to-width-down/1508?cb=20250902053416&path-prefix=vi" group-title="Thử Nghiệm",ĐNNRTV1 Đồng Nai 
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
-#EXTINF:-1 tvg-id="dongnai2" tvg-name="ĐNNRTV2 Đồng Nai " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/%C4%90NNRTV2.png/revision/latest/scale-to-width-down/1000?cb=20250902053524&path-prefix=vi" group-title="Thử Nghiệm",ĐNNRTV2 Đồng Nai 
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
-#EXTINF:-1 tvg-id="lamdong1" tvg-name="LTV1 Lâm Đồng " tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/LTV1_Lam_Dong_logo.png/revision/latest/scale-to-width-down/800?cb=20260213000053&path-prefix=vi" group-title="Thử Nghiệm",LTV1 Lâm Đồng 
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
-#EXTINF:-1 tvg-id="ninhbinhradio" tvg-name="fm" tvg-logo="" group-title="Thử Nghiệm",Ninh Bình 
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
-#EXTINF:-1 tvg-id="ninhbinhradio" tvg-name="fm" tvg-logo="" group-title="Thử Nghiệm",Ninh Bình  
-https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
 
 #EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/HTV1_30-12-2024.png/revision/latest/scale-to-width-down/1000?cb=20260414043039&path-prefix=vi" group-title="HTV",HTV1
 https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8
@@ -593,4 +574,23 @@ http://sohoa.truyenthanhthongminh.vn/tinhtravinh
 https://streaming.tuyenquangtv.vn/channel/tuyenquang_radio/chunks.m3u8
 #EXTINF:-1 tvg-id="vinhlongaudio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Vĩnh Long Aadio
 https://dethich.pw/thvlaudio/index.m3u8
+
+#EXTINF:-1 tvg-id="cantho3" tvg-name="Cần Thơ 3 " tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/C%E1%BA%A7nTh%C6%A13.png/revision/latest/scale-to-width-down/1000?cb=20250912112412&path-prefix=vi" group-title="Thử Nghiệm",Cần Thơ 3 
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
+#EXTINF:-1 tvg-id="dongnai1" tvg-name="ĐNNRTV1 Đồng Nai " tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/%C4%90NNRTV1.png/revision/latest/scale-to-width-down/1508?cb=20250902053416&path-prefix=vi" group-title="Thử Nghiệm",ĐNNRTV1 Đồng Nai 
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
+#EXTINF:-1 tvg-id="dongnai2" tvg-name="ĐNNRTV2 Đồng Nai " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/%C4%90NNRTV2.png/revision/latest/scale-to-width-down/1000?cb=20250902053524&path-prefix=vi" group-title="Thử Nghiệm",ĐNNRTV2 Đồng Nai 
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
+#EXTINF:-1 tvg-id="lamdong1" tvg-name="LTV1 Lâm Đồng " tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/LTV1_Lam_Dong_logo.png/revision/latest/scale-to-width-down/800?cb=20260213000053&path-prefix=vi" group-title="Thử Nghiệm",LTV1 Lâm Đồng 
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
+#EXTINF:-1 tvg-id="ninhbinhradio" tvg-name="fm" tvg-logo="" group-title="Thử Nghiệm",Ninh Bình 
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
+#EXTINF:-1 tvg-id="ninhbinhradio" tvg-name="fm" tvg-logo="" group-title="Thử Nghiệm",Ninh Bình  
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
+#EXTINF:-1 tvg-id="tv360plus16" tvg-name="tv360 16" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/07/07/17/178341886042/8212b6f0ea56_480_270.png" group-title="Thử Nghiệm",TV360+16
+https://cdn.jsdelivr.net/gh/cuncon150413-cmd/test@main/Mr%20Beast%20Stole%20The%20Precious%20Windows%20XP%20Crazy%20Error!%20-%20(480p).mp4
+#EXTINF:-1 tvg-id="tv360plus17" tvg-name="tv360 17" tvg-logo="https://images.genius.com/20d8156ea21ba5f31dcc09769e279117.1000x1000x1.png" group-title="Thử Nghiệm",TV360+17
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/PHD%20-%20%C4%90%E1%BB%ABng%20%C4%90%C3%B3ng%20Vai%20Anh(Audio)%20(Official%20Audio)%20-%20PHD%20MUSIC%20(480p,%20h264,%20youtube).mp4
+#EXTINF:-1 tvg-id="tv360plus18" tvg-name="tv360 18" tvg-logo="https://i.ytimg.com/vi/DfZMqs28dYg/hq720.jpg" group-title="Thử Nghiệm",TV360+18
+https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/S%E1%BB%A9cM%E1%BA%A1nhPHD%20-%20%C4%90%E1%BB%AANG%20C%C3%83I%20ANH%20C%C3%94N(Audio)%20(official%20Audio)%20-%20S%E1%BB%A9c%20M%E1%BA%A1nh%20PHD%20(720p,%20h264,%20youtube).mp4
 
