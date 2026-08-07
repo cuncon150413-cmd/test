@@ -302,6 +302,8 @@ https://vmttv.dpdns.org/VTVGo/?sctv14
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
 https://liveatmvng.vtvprime.vn/live/data8/SCTV15HD/Live_DASHDRM/SCTV15HD.mpd
+#EXTINF:-1 tvg-id="sctv15" tvg-name="SCTV15" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/SCTV15.png/revision/latest?cb=20210820043237&path-prefix=vi" group-title="SCTV",SCTV15
+https://liveatmvng.vtvprime.vn/live/data8/SCTV15HD/Live_DASHDRM/SCTV15HD.mpd
 #EXTINF:-1 tvg-id="sctv16" tvg-name="SCTV16" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/aa/SCTV16.png/revision/latest?cb=20210820043927&path-prefix=vi" group-title="SCTV",SCTV16
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
 #EXTINF:-1 tvg-id="sctv17" tvg-name="SCTV17" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/SCTV17.png/revision/latest/scale-to-width-down/1200?cb=20201011040740" group-title="SCTV",SCTV17 (kodi only)
