@@ -808,6 +808,22 @@ http://dvrfl05.bozztv.com/vch_vchannel17/index.m3u8
 on vie dramas 720p
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 
+stream1.freetv.fun
+dnnrtv2 dong nai 720p
+https://stream1.freetv.fun/508f0a82a2fc948a0982b6e3b45b45a9973cbd5ea22ab82b17df591aa884ef8d.m3u8
+ktv khanh hoa 720p
+https://stream1.freetv.fun/60dc277f4ec0f8f564f8a71f5cc9336e0fcd8a50dc7f34ccb2d303612e77af20.m3u8
+
+t.freetv.fun
+dnnrtv2 dong nai 720p
+https://t.freetv.fun/live/dong-nai-tv-2.m3u8
+
+HaNoiIPTV.short.gy
+sctv2 hd
+https://HaNoiIPTV.short.gy/HaNoiIPTV-SCTV2_HD
+sctv6 hd
+https://HaNoiIPTV.short.gy/HaNoiIPTV-SCTV6_HD
+
 live.baoquangninh.vn
 qtv1 quang ninh hd
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
