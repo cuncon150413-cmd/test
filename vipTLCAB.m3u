@@ -550,6 +550,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10038
 https://freem3u.xyz/api/live/play.m3u8?vid=10040
 #EXTINF:-1 tvg-id="clvn" tvg-name="fm" tvg-logo="" group-title="FM Radio",Cải Lương Việt Nam
 https://stream.zeno.fm/0trm6wrnga0uv
+#EXTINF:-1 tvg-id="CRNT" tvg-name="fm" tvg-logo="" group-title="FM Radio",Cherry Radio Nhạc Trẻ
+https://stream.zeno.fm/umt5gqmg3reuv.aac
 #EXTINF:-1 tvg-id="RDJ" tvg-name="fm" tvg-logo="" group-title="FM Radio",Radio DJ
 https://stream.zeno.fm/ehbutdfccm0uv
 #EXTINF:-1 tvg-id="RNDC" tvg-name="fm" tvg-logo="" group-title="FM Radio",Radio Nhạc Dân Ca
@@ -558,6 +560,8 @@ https://stream.zeno.fm/a2dbs2tq1p8uv
 https://stream.zeno.fm/x2z45v7d84zuv
 #EXTINF:-1 tvg-id="RPG" tvg-name="fm" tvg-logo="" group-title="FM Radio",Radio Phật Giáo
 https://stream.zeno.fm/8456uy0bcm0uv
+#EXTINF:-1 tvg-id="RBHLS" tvg-name="fm" tvg-logo="" group-title="FM Radio",Radio Bài Hát Lạng Sơn
+https://stream.zeno.fm/xsct365wra0uv
 #EXTINF:-1 tvg-id="hanoi90" tvg-name="fm" tvg-logo="" group-title="FM Radio",FM90 Tin tức Giao Thông Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=9905
 #EXTINF:-1 tvg-id="hanoi96" tvg-name="fm" tvg-logo="" group-title="FM Radio",FM96 Thời Sự Hà Nội
@@ -631,7 +635,7 @@ https://live.baoquangninh.vn/qtvlive/qnr1.m3u8
 #EXTINF:-1 tvg-id="quangninhradio2" tvg-name="fm" tvg-logo="" group-title="FM Radio",QNR2
 https://live.baoquangninh.vn/qtvlive/qnr2.m3u8
 #EXTINF:-1 tvg-id="quangtriradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Quảng Trị
-https://tructuyen.baoquangtri.vn:5443/WebRTCAppEE/streams/9GwZb90MRel72veq246724788395010.m3u8
+http://media01.dxtgroup.vn:8000/quangtri
 #EXTINF:-1 tvg-id="sonlaradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Sơn La
 https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/chunklist.m3u8
 #EXTINF:-1 tvg-id="tayninhradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Tây Ninh 96,9 mhz & 103,1 mhz

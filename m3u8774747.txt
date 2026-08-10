@@ -630,11 +630,54 @@ http://14.162.146.90:8000/HANOI90
 hanoi96
 http://222.252.21.96:8000/HANOI96
 
+quang ngai
+http://media01.dxtgroup.vn:8000/quangngai
+vov1
+http://media01.dxtgroup.vn:8000/vov1
+nghe an
+http://media01.dxtgroup.vn:8000/nghean
+quang tri
+http://media01.dxtgroup.vn:8000/quangtri
+gia lai
+http://media01.dxtgroup.vn:8000/binhdinh
+hue
+http://media01.dxtgroup.vn:8000/hue
+
+sohoa.truyenthanhthongminh.vn
+thvl audio
+http://sohoa.truyenthanhthongminh.vn/daitinhvinhlong
+binh duong radio
+http://sohoa.truyenthanhthongminh.vn/sohoabinhduong
+lao cai radio
+http://sohoa.truyenthanhthongminh.vn/sohoatinhlaocai
+binh phuoc radio
+http://sohoa.truyenthanhthongminh.vn/sohoabinhphuoc
+nam dinh radio
+http://sohoa.truyenthanhthongminh.vn/sohoanamdinh
+vov1
+http://sohoa.truyenthanhthongminh.vn/BinhPhuoc-VOV1
+dong thap radio
+http://sohoa.truyenthanhthongminh.vn/fmdongthap
+tra vinh radio
+http://sohoa.truyenthanhthongminh.vn/tinhtravinh
+can tho radio
+http://sohoa.truyenthanhthongminh.vn/tpcantho
+
 stream.zeno.fm
 Cherry Radio Nhạc Trẻ
 https://stream.zeno.fm/umt5gqmg3reuv.aac
-lang son radio
+Bài Hát Lạng Sơn
 https://stream.zeno.fm/xsct365wra0uv
+Cải Lương Việt Nam
+https://stream.zeno.fm/0trm6wrnga0uv
+Radio DJ
+https://stream.zeno.fm/ehbutdfccm0uv
+Radio Nhạc Dân Ca
+https://stream.zeno.fm/a2dbs2tq1p8uv
+Radio Nhạc Vàng Xưa
+https://stream.zeno.fm/x2z45v7d84zuv
+Radio Phật Giáo
+https://stream.zeno.fm/8456uy0bcm0uv
 
 Quoc te link khac
 France24 hd
@@ -764,26 +807,6 @@ viet shopping tv (cali) 720p
 http://dvrfl05.bozztv.com/vch_vchannel17/index.m3u8
 on vie dramas 720p
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
-
-sohoa.truyenthanhthongminh.vn
-thvl audio
-http://sohoa.truyenthanhthongminh.vn/daitinhvinhlong
-binh duong radio
-http://sohoa.truyenthanhthongminh.vn/sohoabinhduong
-lao cai radio
-http://sohoa.truyenthanhthongminh.vn/sohoatinhlaocai
-binh phuoc radio
-http://sohoa.truyenthanhthongminh.vn/sohoabinhphuoc
-nam dinh radio
-http://sohoa.truyenthanhthongminh.vn/sohoanamdinh
-vov1
-http://sohoa.truyenthanhthongminh.vn/BinhPhuoc-VOV1
-dong thap radio
-http://sohoa.truyenthanhthongminh.vn/fmdongthap
-tra vinh radio
-http://sohoa.truyenthanhthongminh.vn/tinhtravinh
-can tho radio
-http://sohoa.truyenthanhthongminh.vn/tpcantho
 
 live.baoquangninh.vn
 qtv1 quang ninh hd
@@ -3182,7 +3205,7 @@ sctv20 720p
 https://vmttv.dpdns.org/VTVGo/?sctv20
 sctv21 hd
 https://vmttv.dpdns.org/VTVGo/?sctv21
-sctv phim hd
+sctv phim tong hop hd
 https://vmttv.dpdns.org/VTVGo/?sctvphim
 
 vpsttt.vietanhtv.top
