@@ -536,11 +536,6 @@ bhttv ha tinh 720p
 https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
 ctv ca mau 720p
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
-dnnrtv2 dong nai hd
-https://1.org.vn/dnrtv2
-https://1.org.vn/dnrtv2-henxui
-dnnrtv3 dong nai 720p
-https://1.org.vn/dnrtv3
 mien tay thdt2 960x540
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8
 huetv 720p
@@ -2789,8 +2784,6 @@ htvc gia dinh hd
 https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
 htvc phu nu hd
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
-htv7 hd
-https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
 htvc music hd
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 htvc plus hd
@@ -2825,51 +2818,50 @@ https://live.fptplay53.net/epzsd1/lamdong01_hls.smil/chunklist.m3u8
 gtv gia lai hd
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8
 thvl5 hd
-https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
 atv1 an giang
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
+atv2 an giang hd
+https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist.m3u8
 atv3 an giang hd
 https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist.m3u8
-atv2 an giang hd
-https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
-qttv quang tri hd
-https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
+bhttv ha tinh hd
+https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist.m3u8
 can tho 1 hd
 https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist.m3u8
+can tho 2 hd
+https://live.fptplay53.net/epzhd2/cantho02_vhls.smil/chunklist.m3u8
 can tho 3 hd
 https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzsd1/cantho01_hls.smil/chunklist.m3u8
-bhttv ha tinh hd
-https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist.m3u8
+ctv ca mau hd
+https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist.m3u8
 nbtv ninh binh hd
 https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist.m3u8
 qngtv1 quang ngai hd
 https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist.m3u8
 qngtv2 quang ngai hd
 https://live.fptplay53.net/epzsd1/quangngai01_hls.smil/chunklist.m3u8
-btv1 binh duong hd
-https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8
 hanoitv1 hd
 https://live.fptplay53.net/fnxhd2/hanoitv1_hls.smil/chunklist.m3u8
-brt ba ria vung tau hd
-https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8
-ctv ca mau hd
-https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8
 dnnrtv1 dong nai hd
 https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist.m3u8
 dnnrtv2 dong nai hd
-https://live.fptplay53.net/epzsd1/dongnai3_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist.m3u8
+dnnrtv3 dong nai 720p
+https://live.fptplay53.net/epzsd1/dongnai3_hls.smil/chunklist.m3u8
 thdt1 dong thap hd
-https://live.fptplay53.net/epzsd1/dongthap_hls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist_b5000000.m3u8
 huetv hue hd
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
 qttv quang tri hd
 https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
 hung yen hd
 https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8
+qttv quang tri hd
+https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
 sctv6 hd
-https://live.fptplay53.net/epzhd2/film360_hls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 ntv nghe an hd
 https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist.m3u8
 ttv thanh hoa hd
