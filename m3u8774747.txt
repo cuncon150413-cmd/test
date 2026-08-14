@@ -746,6 +746,16 @@ on vie dramas 720p
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 
 stream1.freetv.fun
+vtv1 hd
+https://stream1.freetv.fun/bfdf873bf013faad453775a7093343b171bbabec7a94735f1c8b6e2f906d4396.ctv
+vtv4 hd
+https://stream1.freetv.fun/8ef0eef86ed9a40a737cfffd1b980e8110ce77dd005412ccdd0793aeca5acf9f.ctv
+htv9 hd
+https://stream1.freetv.fun/964c93c87c56d9ca646fc81a28147d0f036eb29076bec9d48fd42ddaee8f6508.ctv
+htv the thao hd
+https://stream1.freetv.fun/232be55cfe9c3c0b7c97bac5ffe427224d65af436e95137afefc7a7c5c969150.ctv
+sctv6 hd
+https://stream1.freetv.fun/7bc75d5f651f2c98f92dcdc20413075ba78720a633ce395741df9d95e31509df.ctv
 dnnrtv2 dong nai 720p
 https://stream1.freetv.fun/508f0a82a2fc948a0982b6e3b45b45a9973cbd5ea22ab82b17df591aa884ef8d.m3u8
 ktv khanh hoa 720p
