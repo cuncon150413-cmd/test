@@ -96,14 +96,6 @@ thvl3 hd
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 thvl3 hd
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist.m3u8
-thvl4 hd
-https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
-thvl4 sd
-https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b1800000.m3u8
-thvl5 sd
-https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b1800000.m3u8
-thvl5 hd
-https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 hn1 sd
 https://live.fptplay53.net/fnxhd2/hanoitv1_hls.smil/chunklist_b1800000.m3u8
 hn1 hd
@@ -179,8 +171,6 @@ dnnrtv2 dong nai hd
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist.m3u8
 dtv dien bien sd720x406
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
-bhttv ha tinh 720p
-https://wse.hatinhtv.net/live/httv1/chunklist_w1547680104.m3u8
 thp hai phong hd
 https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
 thp3 hai phong hd
@@ -283,7 +273,7 @@ https://live.mediatech.vn/live/2853bb18b89d074498c81d7a0deb32a3755/chunklist.m3u
 
 bacninhtv.vn
 btv hd
-https://live.mediatech.vn/live/285983d45f5bdab43ebb4cab75573adeda1/playlist.m3u8
+https://live.mediatech.vn/live/285983d45f5bdab43ebb4cab75573adeda1/chunklist.m3u8
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
 
 baocamau.vn
@@ -411,6 +401,7 @@ thlc hd
 https://live.baolaocai.vn/channel2/stream.m3u8
 
 baolamdong.vn
+ltv1
 https://live.baolamdong.vn/ltv1/index.m3u8?t=1
 
 truyenhinhnghean.vn
@@ -740,7 +731,7 @@ testcard 720p
 http://dvrfl05.bozztv.com/vch_vchannel13/index.m3u8
 cali channel 2 unknown name 720p
 http://dvrfl05.bozztv.com/vch_vchannel15/index.m3u8
-viet shopping tv (cali) 720p
+vietoday
 http://dvrfl05.bozztv.com/vch_vchannel17/index.m3u8
 on vie dramas 720p
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
@@ -1151,20 +1142,20 @@ phát thanh quảng ngãi
 https://cdn.sonlatv.vn/live/2853bb18b89d074498c81d7a0deb32a3755/chunklist.m3u8
 https://cdn.sonlatv.vn/live/2853bb18b89d074498c81d7a0deb32a3755/playlist.m3u8
 ltv1 lam dong hd
-https://cdn.sonla.vn/live/285eb380a290dab40af8eafb1b05abce703/chunklist.m3u8
+https://cdn.sonlatv.vn/live/285eb380a290dab40af8eafb1b05abce703/chunklist.m3u8
 https://cdn.sonla.vn/live/285eb380a290dab40af8eafb1b05abce703/playlist.m3u8
 hbtv hoa binh hd
-https://cdn.sonla.vn/live/2856e81d201c99b4649b5c62f3cddad3881/chunklist.m3u8
-https://cdn.sonla.vn/live/2856e81d201c99b4649b5c62f3cddad3881/playlist.m3u8
+https://cdn.sonlatv.vn/live/2856e81d201c99b4649b5c62f3cddad3881/chunklist.m3u8
+https://cdn.sonlatv.vn/live/2856e81d201c99b4649b5c62f3cddad3881/playlist.m3u8
 hytv hung yen radio
-https://cdn.sonla.vn/live/285b6e443bc30734725a940da8b0629655b/chunklist.m3u8
-https://cdn.sonla.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
+https://cdn.sonlatv.vn/live/285b6e443bc30734725a940da8b0629655b/chunklist.m3u8
+https://cdn.sonlatv.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
 tn tay ninh radio
-https://cdn.sonla.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/chunklist.m3u8
-https://cdn.sonla.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8
+https://cdn.sonlatv.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/chunklist.m3u8
+https://cdn.sonlatv.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8
 hai duong radio
-https://cdn.sonla.vn/live/2858f932f24fa494996afb93ae0a7896ef9/chunklist.m3u8
-https://cdn.sonla.vn/live/2858f932f24fa494996afb93ae0a7896ef9/playlist.m3u8
+https://cdn.sonlatv.vn/live/2858f932f24fa494996afb93ae0a7896ef9/chunklist.m3u8
+https://cdn.sonlatv.vn/live/2858f932f24fa494996afb93ae0a7896ef9/playlist.m3u8
 
 stream.langsontv.vn
 stv son la hd
@@ -1679,6 +1670,8 @@ dongnai radio
 https://stream.thingnet.vn/radio/dongnai_aac/playlist.m3u8
 
 125hvt.ddns.net:21585
+vtv2 576p
+http://125hvt.ddns.net:21585/vtv2/playlist.m3u8
 vtv6 576p
 http://125hvt.ddns.net:21585/vtv6/playlist.m3u8
 antv 576p
@@ -1691,6 +1684,8 @@ thvl1 576p
 http://125hvt.ddns.net:21585/thvl1/playlist.m3u8
 
 live247.freem3u.xyz:21585
+vtv2 576p
+http://live247.freem3u.xyz:21585/vtv2/playlist.m3u8
 vtv6 576p
 http://live247.freem3u.xyz:21585/vtv6/playlist.m3u8
 antv 576p
@@ -2339,7 +2334,7 @@ thp hai phong 360p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/haiphongtv-360p.m3u8
 dtv dien bien 720p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/dienbientv-720p.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/dienbientv-mainfest.m3u8
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/dienbientv-manifest.m3u8
 dtv dien bien 480p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/dienbientv-480p.m3u8
 dtv dien bien 360p
@@ -3072,11 +3067,11 @@ https://liveh12.vtvprime.vn/hls/SCTV2/02.m3u8
 sctv2 360p
 https://liveh12.vtvprime.vn/hls/SCTV2/01.m3u8
 sctv5 720p
-https://liveh12.vtvprime.vn/hls/SCTV5/01.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV5/01.m3u8
 sctv5 480p
-https://liveh12.vtvprime.vn/hls/SCTV5/02.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV5/02.m3u8
 sctv5 360p
-https://liveh12.vtvprime.vn/hls/SCTV5/03.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV5/03.m3u8
 on football hd
 https://liveh12vng.vtvprime.vn/hls/ONSPORT1/04.m3u8
 on football 720p
@@ -3493,7 +3488,7 @@ drt dak lak hd
 https://vmttv.dpdns.org/tv360/?id=51
 dtv dien bien hd
 https://vmttv.dpdns.org/tv360/?id=52
-dnrtv1 dong nai hd
+dnnrtv1 dong nai hd
 https://vmttv.dpdns.org/tv360/?id=53
 thdt1 dong thap hd
 https://vmttv.dpdns.org/tv360/?id=54
